@@ -1,0 +1,1885 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glasse of vaine-glorie: faithfully translated (out of S. Augustine his booke, intituled, Speculum peccatoris) into English, by W.P. Doctor of the Lawes</title>
+            <title>Speculum peccatoris. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22778</idno>
+            <idno type="STC">STC 929</idno>
+            <idno type="STC">ESTC S104431</idno>
+            <idno type="EEBO-CITATION">99840169</idno>
+            <idno type="PROQUEST">99840169</idno>
+            <idno type="VID">4644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 484:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glasse of vaine-glorie: faithfully translated (out of S. Augustine his booke, intituled, Speculum peccatoris) into English, by W.P. Doctor of the Lawes</title>
+                  <title>Speculum peccatoris. English.</title>
+                  <author>Prid, W.</author>
+                  <author>Augustine, Saint, Bishop of Hippo, attributed name.</author>
+               </titleStmt>
+               <extent>[24], 70, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Windet, dwelling at the signe of the white Beare, nigh Baynards Castle,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1585.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably not in fact by Augustine.</note>
+                  <note>W.P. = W. Prid.</note>
+                  <note>With a final colophon leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual life --  Middle Ages, 600-1500.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4644:1"/>
+            <pb facs="tcp:4644:1" rendition="simple:additions"/>
+            <p>THE GLASSE OF vaine-glorie: Faithfully translated (out of S. AVGVSTINE his booke, in<g ref="char:EOLhyphen"/>tituled, <hi>Speculum peccatoris</hi>) into Engliſh, <hi>by</hi> W. P. <hi>Doctor of the Lawes.</hi>
+            </p>
+            <figure>
+               <q>MORS · TVA MORS · CHRISTI FRAVS · MVNDI GLORIA · COELI</q>
+               <q>QVOD VNI ET OMNIBVS</q>
+               <q>ET · DOLOR · INFERNI · SVNT · MEDITANDA · TIBI ·</q>
+               <q>MIHI · HODIE · CRAS TIBI</q>
+               <q>MORS SEPTRA LIGONIE' EQVAT.</q>
+            </figure>
+            <q>
+               <hi>Sic tranſit gloria mundi.</hi>
+            </q>
+            <p>Printed at London by <hi>Iohn Windet,</hi> dwelling at the ſigne of the white <hi>Beare, nigh Baynards Castle.</hi> 1585.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:4644:2" rendition="simple:additions"/>
+            <pb facs="tcp:4644:2"/>
+            <head>TO THE WOR<g ref="char:EOLhyphen"/>SHIPFVLL EDMVNDE HASSELVVOOD of Ringe<g ref="char:EOLhyphen"/>ſtone in the Countie of <hi>Lin<g ref="char:EOLhyphen"/>colne, Eſquier:</hi> W. P. <hi>wiſheth</hi> moſt proſperous felicitie in this <hi>world, and in the world to come</hi> life euerlaſting.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>F GOD HIM</hi> ſelfe ſo bitterly in<g ref="char:EOLhyphen"/>ueieth againſt the extreame ingrati<g ref="char:EOLhyphen"/>tude of his people by his holy Prophet <hi>Eſaias,</hi> ſaying: <hi>I haue nouriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, &amp; brought vp children, and they haue re<g ref="char:EOLhyphen"/>belled againſt me:</hi> yea, if hee preferreth bruite beaſtes in the re<g ref="char:EOLhyphen"/>turne
+<pb facs="tcp:4644:3"/>
+of their duetie before them, ſaying: <hi>The oxe knoweth his owner, and the aſſe his mai<g ref="char:EOLhyphen"/>ſters crib: but Iſrael knoweth not me.</hi>
+            </p>
+            <p>If the Perſians likewiſe, ſo wor<g ref="char:EOLhyphen"/>thily abhorred this vice of Ingra<g ref="char:EOLhyphen"/>titude, ſo as they extremely puni<g ref="char:EOLhyphen"/>ſhed ſuch as they found more wil<g ref="char:EOLhyphen"/>ling to receiue, than readie to re<g ref="char:EOLhyphen"/>quite, adiudging them execrable vnto God, iniurious to nature, and vnprofitable members of a common wealth.</p>
+            <p>If the Ciuill Lawe alſo, with good reaſon bindeth men by nature <hi>ad antidora,</hi> to requite a good turne receiued in duetie.</p>
+            <p>I truſt no reaſonable man will blame me, if I ſeeke by all meanes poſsible, to ſhunne ſo foul a blemiſh as vnthankefulneſſe is, ſo hatefull to God, ſo lothſome to man, and ſo
+<pb facs="tcp:4644:3"/>
+repugnant to nature.</p>
+            <p>Wherefore, finding my ſelfe deepely indebted (by your onely meanes) to all the name of <hi>Haſſel<g ref="char:EOLhyphen"/>wood,</hi> and namely to maſter <hi>Ed<g ref="char:EOLhyphen"/>ward Haſſelwood,</hi> your good brother, and to that vertuous gen<g ref="char:EOLhyphen"/>tlewoman his wife, (a rare example of godlines and modeſtie) but eſpe<g ref="char:EOLhyphen"/>cialy to your worſhip, both for them and all other your kindneſſe, curte<g ref="char:EOLhyphen"/>ſie, and great frindſhips ſhewed to<g ref="char:EOLhyphen"/>wardes mee a ſtranger. And ha<g ref="char:EOLhyphen"/>uing no other way in the world, to requite any part of the ſame, then by leauing a publike teſtimonie to all poſteritie, of my loyall loue, and hartie good will towardes you like<g ref="char:EOLhyphen"/>wiſe, to ſtande for the meede of ſo great a merite: I haue preſumed to dedicate to your worſhip, this litle booke of S <hi>Auguſtines,</hi> tranſlated by me into Engliſh, and with great
+<pb facs="tcp:4644:4"/>
+labor quoted, &amp; confirmed by ſcrip<g ref="char:EOLunhyphen"/>ture in the margeant, as you ſee, very profitable to the Chriſtian Reader, that can finde in his heart, to ſequeſter his mind from the vice of vaine-glory, (that proceedeth from the ignorance of our owne e<g ref="char:EOLhyphen"/>ſtate) the very ſnare of Satan, the puddle of pride, and the fountaine from whence diſtilleth all kinde of poyſoned infection, as by the viewe of this glaſſe may eaſily appeare.</p>
+            <p>Wherfore the premiſes due<g ref="char:EOLhyphen"/>ly conſidered I doubt not, but that you will of your accuſtomed curte<g ref="char:EOLhyphen"/>ſye, pardon my preſumption, and of your wonted Zeale to godlines, accept of my trauaile herein, and thinke me rather vnable, then vn<g ref="char:EOLhyphen"/>willing any way to diſcharge my dutie whereof I am carefull, as knoweth the Lorde, who euer pre<g ref="char:EOLhyphen"/>ſerue your worſhip and that ver<g ref="char:EOLhyphen"/>tuous
+<pb facs="tcp:4644:4"/>
+Gentlewoma<g ref="char:cmbAbbrStroke">̄</g> your wife long to continue amongeſt vs with increaſe of godlineſſe, and worſhippe in his feare.</p>
+            <closer>
+               <signed>Your worſhips, moſt faithfull friend in the Lord. W, P.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:4644:5"/>
+            <pb facs="tcp:4644:5"/>
+            <head>
+               <hi>A PREFACE to the Chriſtian Reader, and</hi> louing looker in this Glaſſe of vaine glorie.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S thoſe beaſtes that</hi> did not ruminate, nor chewe the cud, were iudged filthie and vn<g ref="char:EOLhyphen"/>cleane, by the law Le<g ref="char:EOLhyphen"/>uiticall: <note n="a" place="margin">
+                  <hi>Leuit.</hi> 11, 7 <hi>Deut.</hi> 14, 4 5.6.7.8.</note> So (no doubt) all they, that neuer enter into due conſidera<g ref="char:EOLhyphen"/>tion, of their eſtate and duetie, muſt needes be wicked, and vnholy, in the ſight of the Lorde,<note n="b" place="margin">
+                  <hi>Ierem.</hi> 12, 11. 1. <hi>Cor.</hi> 10, 11 9.10</note> who moſt care<g ref="char:EOLhyphen"/>fully recommendeth this exerciſe of meditation vnto vs, ſaying: <hi>Theſe wordes muſt remaine in thy heart, thou</hi> 
+               <note n="c" place="margin">
+                  <hi>Deut.</hi> 6.7 8.</note> 
+               <hi>ſhalt meditate vpon them, both at home, and abroad: when thou goeſt to bedde at night, and when thou riſest in the mor<g ref="char:EOLhyphen"/>ning.</hi> 
+               <note n="d" place="margin">
+                  <hi>Deut.</hi> 6 7 22.</note> And againe: Teach your chil<g ref="char:EOLhyphen"/>dren theſe things, <hi>that they may meditate
+<pb facs="tcp:4644:6"/>
+vpon them.</hi> So is <hi>Ioſhua</hi> commaun<g ref="char:EOLhyphen"/>ded to doe by the Lord himſelfe<note n="e" place="margin">
+                  <hi>Ioſhua.</hi> 1.8</note>. And ſo is <hi>Timothie</hi> likewiſe, by his maiſter <hi>Paule</hi> willed to meditate.<note n="f" place="margin">1 <hi>Tim.</hi> 4, 15.</note> 
+               <hi>Haec medi<g ref="char:EOLhyphen"/>tare,</hi> thinke of theſe things. This me<g ref="char:EOLhyphen"/>ditation hath alwaies bene the ordi<g ref="char:EOLhyphen"/>narie exerciſe of the righteous &amp; god<g ref="char:EOLhyphen"/>ly<note n="g" place="margin">
+                  <hi>Sirach</hi> 14.21. <hi>pſal,</hi> 1.2. <hi>prou,</hi> 6, 21. <hi>Iob,</hi> 1, 5.</note> yea likewiſe of all wiſe heathen men<note n="h" place="margin">Seneca.</note> So did <hi>Iſaac,</hi> the patriarch.<note n="i" place="margin">
+                  <hi>Gene.</hi> 24, 63</note> So did Dauid the Prophet.<note n="k" place="margin">
+                  <hi>pſalm,</hi> 119 28,</note> So did <hi>Eze<g ref="char:EOLhyphen"/>chias</hi> the King<note n="l" place="margin">
+                  <hi>Iſa,</hi> 38.13 14</note>. And ſo did <hi>Plato</hi> the Philoſopher,<note n="m" place="margin">Ieron in epiſtola ad Heliodorum</note> ſaying, that the life of Philoſophers was nothing els, but a dayly memoriall of their death, and<note n="n" place="margin">Seneca, epiſt. <hi>147.</hi>
+               </note> diſſolution.<note n="o" place="margin">
+                  <hi>Tim,</hi> 4.10,</note> The reme<g ref="char:cmbAbbrStroke">̄</g>brance where<g ref="char:EOLhyphen"/>of made the world (that we for want of this meditation, ſo willingly<note n="p" place="margin">Ieron ad paulinum. epiſtola <hi>125.</hi>
+               </note>, im<g ref="char:EOLhyphen"/>brace) vile and contemptible<note n="q" place="margin">Seneca li <hi>18,</hi> de nat. quoeſtionib. Auguſt lib. <hi>13</hi> de ciui<g ref="char:EOLhyphen"/>tate Dei, <hi>ca 11</hi> Eccle. <hi>7, 16 19,</hi>
+               </note> vnto them: and auailed greatly to guide them in all<note n="r" place="margin">
+                  <hi>Sirac.</hi> 7, 36,</note> godlines: wherefore full well the ſonne of <hi>Sirach</hi> doth ſay: <hi>in all thy works, whatſoeuer thou doeſt, reme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber the ende, and thou ſhalt neuer doe a<g ref="char:EOLhyphen"/>miſſe</hi>
+               <note n="s" place="margin">
+                  <hi>Ion,</hi> 3 10,</note>. How beneficiall it hath bene, the Niniuites can teſtifie:<note n="z" place="margin">1 <hi>Kinges</hi> 21, 29,</note> and <hi>Ahab</hi> can witneſſe. <hi rend="sup">u</hi> Contrariwiſe, howe hurtful the want of this prouidence &amp; circumſpection hath beene, beſides
+<pb facs="tcp:4644:6"/>
+daily<note n="v" place="margin">Experi<g ref="char:EOLhyphen"/>entia docet.</note> experience the wofull deſtruc<g ref="char:EOLhyphen"/>tion of the Sodomites and the vtter ruine of the cittie of Laiſh,<note n="x" place="margin">
+                  <hi>Gen,</hi> 19, 24, <hi>Deut,</hi> 29, 23, <hi>Iſa,</hi> 13.9.</note> do ſuffi<g ref="char:EOLhyphen"/>ciently witneſſe. And God himſelf by his holy Prophet doeth ſignifie, ſaying <hi>All the earth is fallen into vtter deſolati<g ref="char:EOLhyphen"/>on, for that there is no man that deepelye conſidereth theſe things in his heart.</hi>
+               <note n="z" place="margin">
+                  <hi>Ier,</hi> 12, 11</note> Wee wonder greatly (&amp; not without cauſe at the madnes of theeues, that (ſeeing a many hanged euery day for thefte) yet without any regard,<note place="margin">
+                  <hi>Reuela.</hi> 22.11</note> they continue their practiſe<note n="y" place="margin">
+                  <hi>Iudg,</hi> 18.28</note> and conſider not their <note n="z," place="margin">
+                  <hi>pſal.</hi> 53.1</note> perill. How much the rather ought we to be amazed, at the humor of theſe worldlings, how poſſibly they can be ſo ſottiſh &amp;<note n="a" place="margin">
+                  <hi>Wiſdom</hi> 54, 32.</note> frantike (know<g ref="char:EOLhyphen"/>ing the vanitie of the world,<note n="b" place="margin">
+                  <hi>Eccle.</hi> 1, 1 <hi>Rom,</hi> 8, 28. 1 <hi>Cor,</hi> 7, 31.</note> and the vengeance<note n="c" place="margin">
+                  <hi>Iuc,</hi> 3, 7.</note> to come) as to follow the one ſo much.<note n="d" place="margin">
+                  <hi>Iacob,</hi> 4, 4</note> and feare the other ſo <note n="e" place="margin">
+                  <hi>pſalm,</hi> 36 <hi>Rom,</hi> 3, 18.</note> little. The peacocke is not alwaies tooting on his traine, to further his pride, but ſomtimes he loketh down<g ref="char:EOLhyphen"/>warde, to his legs though it quaileth his courage: but man ſo delighteth in his pride, &amp; vaine glory<note n="f" place="margin">
+                  <hi>Acts,</hi> 12.21,</note> that he hath neuer leaſure to regarde his mortality <note n="g" place="margin">
+                  <hi>Iſa,</hi> 47.7</note> much leſſe to be moued<note n="h" place="margin">
+                  <hi>Wiſdo,</hi> 2.2, 3, 4, 5.</note> thereat. <hi>Xerxes</hi> that mighty Monarch and Em<g ref="char:EOLhyphen"/>perour
+<pb facs="tcp:4644:7"/>
+of the Perſians, (beholding from an high, the hugeneſſe of his ar<g ref="char:EOLhyphen"/>my, in ſtrength inuincible, in qualitie diuers, in number infinit, couering the face of the earth: in whoſe courage &amp; might, he had fully repoſed the ſtre<g ref="char:cmbAbbrStroke">̄</g>gth of his kingdome, the ſafegarde of his perſon, &amp; glory of his Empire:) could not refraine his eies from teares, con<g ref="char:EOLhyphen"/>ſidering that of all this maruelous multitude that he ſawe after one hun<g ref="char:EOLhyphen"/>dred yeares, there ſhould not a man be left.<note n="m" place="margin">Iuſtin. hiſt. lib. <hi>2.</hi> fol. <hi>21.</hi> Ieron. epiſt. <hi>55.</hi> a. Nic. de blo. ſer <hi>114.</hi> a</note> And ſhall not wee, that are<note n="n" place="margin">Acts. <hi>11.26.14.</hi> Bern lib. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent. Cipri. de <hi>12.</hi> chuſionibus Auguſt. de vita Chri<g ref="char:EOLhyphen"/>ſtiana.</note> Chriſtians, at leaſt wiſe in name,<note n="o" place="margin">
+                  <hi>Pſal.</hi> 8 6. <hi>Eccleſi</hi> 1 16.2 <hi>in all. Iob.</hi> 1.2.</note> (viewing from the higheſt pinacle of our conceite, our ſelues, our glorie, magnificence, &amp; renowme: our welth, our ſubſtance, our beautie, our ſtre<g ref="char:cmbAbbrStroke">̄</g>gth, our friendes, and our dignitie, our health, our knowledge and brauerie,<note n="p" place="margin">
+                  <hi>Hoſſ.</hi> 12.8. <hi>Soph.</hi> 2.15.</note> wherein we repoſe all our felicitie, &amp; happines)<note n="q" place="margin">1 <hi>Cor.</hi> 7.31.</note> be nothing moued with due conſideration, that the world paſ<g ref="char:EOLhyphen"/>ſeth away, and the concupiſcence ther<g ref="char:EOLhyphen"/>of and we ſhall bee reſolued to earth,<note n="r" place="margin">
+                  <hi>Gen</hi> 3.19.</note> whereof wee were framed<note n="ſ" place="margin">
+                  <hi>Iob.</hi> 8 9.</note> and know not how<hi rend="sup">s</hi> ſoone: for this is the iudge<g ref="char:EOLhyphen"/>ment of al fleſhe, thou ſhalt dye the <note place="margin">
+                  <hi>Heb.</hi> 9.27.</note> death, it tarrieth<note place="margin">
+                  <hi>Wiſd.</hi> 2.4.</note> not: the coue<g ref="char:EOLhyphen"/>nant
+<pb facs="tcp:4644:7"/>
+of the graue is not ſhewed to a<g ref="char:EOLhyphen"/>ny <note n="u" place="margin">
+                  <hi>Sirach.</hi> 14, 12.</note> but as water ſpilt on the<note n="x" place="margin">
+                  <hi>Iob.</hi> 24.19</note> ſande, ſo is man ſoone conſumed, &amp; brought to nothing<note n="y" place="margin">2. <hi>Sam.</hi> 24, 24. <hi>Iob</hi> 7, 8.</note>: to day a man morrowe none<note n="z" place="margin">
+                  <hi>Sirach.</hi> 38, 22.</note>. our life paſſeth away like a ſha<g ref="char:EOLunhyphen"/>dowe<note n="a" place="margin">
+                  <hi>Wiſd.</hi> 5, 9</note>, and vaniſheth into the ayre, as ſmoke<note n="b" place="margin">
+                  <hi>Wiſd.</hi> 2, 2.</note>. as a poſt that paſſeth by and tarrieth<note n="c" place="margin">
+                  <hi>Ibid.</hi> 5, 9.</note> not, as a ſhippe that ſaileth with full winde<note n="d" place="margin">
+                  <hi>Ibid.</hi> 5, 10.</note>, or a birde ſwifte of flighte<note n="e" place="margin">
+                  <hi>Ibid.</hi> 5.11.</note>, yea ſwifter then a Weauers ſhittell<note n="f" place="margin">
+                  <hi>Iob.</hi> 7, 6.</note>, or an arrow that is ſtronglye ſhot out of a bowe<note n="g" place="margin">
+                  <hi>Wiſd.</hi> 5.12.</note>: it is as a tale that is tolde, or a ſpanne in<note n="h" place="margin">
+                  <hi>Pſal.</hi> 39, 5.</note> length: For no ſoner are we born, but ſtreit waies we decay, and drawe towards an ende<note n="i" place="margin">
+                  <hi>Wiſd<g ref="char:punc">▪</g>
+                  </hi> 5.13.</note>, ſhewing no token of vertue, but are conſumed in our owne wic<g ref="char:EOLhyphen"/>kednes, and muſt at length appeare be<g ref="char:EOLhyphen"/>fore the tribunall ſeat of Chriſt Ieſus, <note n="k" place="margin">2. <hi>Cor.</hi> 5.10.</note> who will bring to light thoſe things which were hidden in darckenes, re<g ref="char:EOLhyphen"/>ueale the ſecreets of our mindes<note n="l" place="margin">
+                  <hi>Luke</hi> 12, 1.3.</note> and, as a righteous Iudge,<note n="m" place="margin">2 <hi>Tim.</hi> 4, 8.</note> yeelde vnto e<g ref="char:EOLhyphen"/>uery man as he hath done in the fleſhe good or euill.<note n="n" place="margin">
+                  <hi>Rom.</hi> 14.12. <hi>Matth.</hi> 25, 34, 41.</note> The ende of all things approcheth: and therefore S. <hi>Peter</hi> ex<g ref="char:EOLhyphen"/>horteth vs to be ſober, and to watch in praier:<note n="o" place="margin">1. <hi>Pet.</hi> 4, 17. 1 <hi>Pet.</hi> 5.8.</note> for the day of the Lorde is at hand, wherein the heauen ſhal paſſe a<g ref="char:EOLhyphen"/>way
+<pb facs="tcp:4644:8"/>
+with a noyce: the element ſhall melt with heate, and the earth ſhall be conſumed with<note n="p" place="margin">2. <hi>Pet.</hi> 5.9.10 12</note> fire. All corruptible things ſhall paſſe, and the works ther<g ref="char:EOLhyphen"/>of ſhall go withall.<note n="q" place="margin">
+                  <hi>Sirach.</hi> 14, 19</note> When as the re<g ref="char:EOLhyphen"/>probate ſhall behold the angry coun<g ref="char:EOLhyphen"/>tenance of the Lord aboue,<note n="r" place="margin">
+                  <hi>Reu.</hi> 16.16 <hi>Iſa.</hi> 2, 19</note> to terri<g ref="char:EOLhyphen"/>fie <note n="s" place="margin">
+                  <hi>Ierem.</hi> 5.22</note> him, and the infernall pit boyling below,<note n="s" place="margin">
+                  <hi>Ierem.</hi> 5.22</note> redy to ſwallow him<note n="t" place="margin">
+                  <hi>Reu.</hi> 21, 8.</note> his ſins on the one ſide, to crye vengeance a<g ref="char:EOLhyphen"/>gainſt him,<note n="v" place="margin">
+                  <hi>Iſa.</hi> 5, 14.</note> and the deuils on the o<g ref="char:EOLhyphen"/>ther ſide, executioners of his iudge<g ref="char:EOLhyphen"/>ment: <note n="u" place="margin">
+                  <hi>Gen.</hi> 4, 10.18 20</note> within, his conſcience to gnawe<note n="x" place="margin">
+                  <hi>Pſal.</hi> 109.6</note>, and without, al the world on fire. Alas, what remaineth for him to doe? to goe backwarde, it is impoſsi<g ref="char:EOLhyphen"/>ble,<note n="y" place="margin">
+                  <hi>Iſa.</hi> 58, 9.66.24</note> to goe forward, is<note n="z" place="margin">
+                  <hi>Pſal.</hi> 139.6 7 8 9</note> intollerable. Then ſhall the iuſt ſtand in great con<g ref="char:EOLhyphen"/>ſtancie, <note n="a" place="margin">
+                  <hi>Reu.</hi> 14.11 <hi>Reu.</hi> 18, 18.</note> but the wicked ſhalbe enui<g ref="char:EOLhyphen"/>roned with an vnſpeakeable<note n="b" place="margin">
+                  <hi>Wiſd.</hi> 5, 1.</note> feare, &amp; ſay to the hills,<note n="c" place="margin">
+                  <hi>Heb.</hi> 10, 27</note> 
+               <hi>fall vpon vs, and hide vs from the face of him that ſitteth on the throne,</hi>
+               <note n="d" place="margin">
+                  <hi>Reuel.</hi> 6, 16 17</note> 
+               <hi>and from the anger of the Lambe: for the great daye of his wrath is come.</hi> Neither doeth hee regarde anye mans perſon,<note n="e" place="margin">
+                  <hi>Wiſ</hi> 6, 7. <hi>Deuteron.</hi> 10.17. 2. <hi>Chronic.</hi> 19, 7. <hi>Acts.</hi> 10, 34. <hi>Deut.</hi> 10.17. <hi>Gall.</hi> 2, 6. <hi>Epheſ</hi> 6, 9.</note> but ſayeth: Though their ex<g ref="char:EOLhyphen"/>cellencie mount vp to the heauens, and
+<pb facs="tcp:4644:8"/>
+their heads reache to the cloudes:<note n="f" place="margin">
+                  <hi>Iob.</hi> 20, 6.7 8 9 14 15 16 18, <hi>&amp;c.</hi> 26 29</note> yet ſhall they periſh for euer, like their doong: and they that haue ſeene them ſhall ſay: where are they that ſhall flie away as a dreame, and they ſhall not finde them: but they paſſe away, as a viſion in the night, ſo that the eye that hath ſeene them, ſhall ſee them no more, neither ſhall their place enioy them againe. Their bread in their bel<g ref="char:EOLhyphen"/>lies, ſhall be turned to the gall of ſer<g ref="char:EOLhyphen"/>pents: they ſhal be conſtrained to ſpue out againe their riches, that they haue deuoured: yea, God ſhall pull them out of their throtes: they ſhalbe con<g ref="char:EOLhyphen"/>ſtrained to ſucke the galls of Cocatri<g ref="char:EOLhyphen"/>ces, and the tongue of the Adder ſhall ſting them to death: they ſhall paye ſweetely for all that they haue com<g ref="char:EOLhyphen"/>mitted, yet ſhall they not bee conſu<g ref="char:EOLhyphen"/>med, but ſtill ſuffer,<note place="margin">Hierom. tranſla.</note> according to the multitude of their deuiſes: vtter dark<g ref="char:EOLhyphen"/>nes ſhall couer them: and fire that nee<g ref="char:EOLhyphen"/>deth no kindling ſhall eate them vp. This is the portion of the wicked, rea<g ref="char:EOLhyphen"/>die prepared againſt the day of wrath. So mindfull hereof was S. <hi>Hierom,</hi>
+               <note place="margin">S. Hierom.</note> that whether he eat or dranke, or what elſe ſoeuer he did, this ſound did euer ring
+<pb facs="tcp:4644:9"/>
+in his eare: <hi>Ariſe ye dead and come to iudgement</hi> Likewiſe that ancient and reuerent Father,<note place="margin">Innocentius quartus de vtilitate humanae vitae.</note> 
+               <hi>Innocentius quart.</hi> was ſo carefull to auoid the vengeance to come, that to ſtirre vp all the powers of his mind, with due conſideration of the vanitie of this world, the vilenes of his nature, the ſhortnes of his time, the cauſes of ſinne, &amp; the puniſhment for the ſame) he ſtill imagined to heare a damned ſoule anſwering his demand as followeth.</p>
+            <q>Dic mihi vas cinerum, quid prodeſt flos facierum? &amp;c.</q>
+            <p>Thus engliſhed.</p>
+            <q>
+               <lg>
+                  <l>Thou duſt and clay,</l>
+                  <l>tell me (I ſay.)</l>
+                  <l>Where is thy beautie fled?</l>
+                  <l>was it in vaine?</l>
+                  <l>or doth it gaine</l>
+                  <l>thee fauour with the dead?</l>
+               </lg>
+               <lg>
+                  <l>Thy houſe ſo hie,</l>
+                  <l>thy pleaſures by,</l>
+                  <l>Thy cattel more and leſſe,</l>
+                  <l>thy land ſo wide,</l>
+                  <l>thy wife beſide,</l>
+                  <l>a ſtranger doth poſſeſſe.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:4644:9"/>
+                  <l>Where is thy ſtrength?</l>
+                  <l>become at length?</l>
+                  <l>Thy wit thy noble bloud?</l>
+                  <l>thy worldly care?</l>
+                  <l>thy daintie fate</l>
+                  <l>Doe theſe thee any good?</l>
+               </lg>
+            </q>
+            <p>The aunſwer
+<q>
+                  <lg>
+                     <l>I will not faine,</l>
+                     <l>all is but vaine,</l>
+                     <l>There is no foode to finde</l>
+                     <l>no wit no wealth,</l>
+                     <l>no hiew no health.</l>
+                     <l>No hope in graue aſſigne.</l>
+                  </lg>
+                  <lg>
+                     <l>What wilt thou more,</l>
+                     <l>my goods in ſtore,</l>
+                     <l>My land ſo large and wide,</l>
+                     <l>my glory gay,</l>
+                     <l>my braue aray,</l>
+                     <l>Encreaſed haue my pride.</l>
+                  </lg>
+                  <lg>
+                     <l>My pride my paine</l>
+                     <l>procured againe,</l>
+                     <l>My paine my griefe alas,</l>
+                     <l>my griefe, my griefe,</l>
+                     <l>without reliefe,</l>
+                     <l>My ſenſes doth ſurpaſſe.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:4644:10"/>
+                     <l>My wailing woe,</l>
+                     <l>no man doth know,</l>
+                     <l>No tongue can halfe diſplay,</l>
+                     <l>I freeze, I frie,</l>
+                     <l>exceedingly,</l>
+                     <l>Alas, and well away.</l>
+                  </lg>
+                  <lg>
+                     <l>I weepe, I waile,</l>
+                     <l>I faint, I faile,</l>
+                     <l>I ſtewe, I ſtampe, I ſtare.</l>
+                     <l>I dye, I dye,</l>
+                     <l>euerlaſtingly,</l>
+                     <l>Farewell, by mee beware.</l>
+                  </lg>
+               </q>
+            </p>
+            <q>The mighty ſhall mightily be tor<g ref="char:EOLhyphen"/>mented. <bibl>
+                  <hi>Wiſd.</hi> 6.8.</bibl>
+            </q>
+            <p>O the deadly corruption of mans nature,<note n="g" place="margin">
+                  <hi>Gen.</hi> 6.5. <hi>Iob</hi> 15.16. <hi>Ierem.</hi> 17.9.</note> that where natural loue, that man beareth to himſelfe,<note n="h" place="margin">2. <hi>Tim.</hi> 3.2 <hi>Matth.</hi> 19. <hi>u</hi> 22 23</note> pricketh him forward, to commit all kinde of wickednes with greedines: ſhall not naturall feare conſequently, that a man ought to haue,<note n="i" place="margin">
+                  <hi>Epheſ.</hi> 5, 4 19</note> for the auoiding of his own danger,<note n="k" place="margin">
+                  <hi>Matth.</hi> 8, 25 <hi>Mar.</hi> 6, 49.</note> reclaime him to repen<g ref="char:EOLhyphen"/>tance?<note n="l" place="margin">
+                  <hi>Chro.</hi> 15, 4.</note> and ſeeinge euery liuing thing naturally abhorreth his own deſtruc<g ref="char:EOLhyphen"/>tion. The careleſſe Niniuites were <note n="m" place="margin">Ariſtot.</note> 
+               <note n="n" place="margin">
+                  <hi>Ion.</hi> 1.2.</note>
+               <pb facs="tcp:4644:10"/>
+moued at <hi>Ionas</hi> his preaching:<note n="m" place="margin">
+                  <hi>Ion.</hi> 3.5.</note> the deſperate ſouldiers<note n="n" place="margin">
+                  <hi>Luc</hi> 3.14.15</note> at <hi>Iohn</hi> his mena<g ref="char:EOLhyphen"/>cies: the obſtinate Iſraelites,<note n="o" place="margin">
+                  <hi>Acts</hi> 7, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 51</note> at <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> perſwaſion.<note n="p" place="margin">
+                  <hi>Act.</hi> 2, 37.</note> Yet are wee ſo roc<g ref="char:EOLhyphen"/>ked in the cradle of ſecuritie,<note n="q" place="margin">
+                  <hi>Iſa</hi> 47, 7. <hi>Ierem.</hi> 12.4, 14.13</note> that let the charmer charme neuer ſo wiſely, <note n="r" place="margin">
+                  <hi>Pſalme.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> wee ſtoppe the one eare with our taile, and the other with the grounde, (crying peace, peace, when ſudden de<g ref="char:EOLhyphen"/>ſtruction houereth ouer our heads)<note n="ſ" place="margin">1. <hi>Theſ</hi> 5.3 1. <hi>Ierem.</hi> 11.19 <hi>Iſa</hi> 30.10.</note> and are neuer awhit moued thereat: Wherefore the auncient fathers, to waken vs out of this deade Lethargie, haue written verie large volumes, and long diſcourſes: ſo likewiſe to the ſame end &amp; purpoſe. S. <hi>Auguſtine</hi> ſom<g ref="char:EOLhyphen"/>times Biſhop of Hippo, a man of God, endued with his ſpirit in greater mea<g ref="char:EOLhyphen"/>ſure, then any man hath bene, (in my iudgement) ſince the Apoſtles time, amongeſt the auncient fathers, had al<g ref="char:EOLhyphen"/>waies in greateſt admiration, for his ſingular knowledge and ſinceritie of life. A bright burning torch in the ta<g ref="char:EOLhyphen"/>bernacle of God, though ſubiect to infirmities, &amp; ſomwhat infected with the time: yet, being read with iudge<g ref="char:EOLhyphen"/>ment, a ſingular inſtrument, no doubt to ſet forth the gladſome light of his
+<pb facs="tcp:4644:11"/>
+glorious Goſpell, as from the face of Chriſt Ieſus) hath written this little booke in Latine, intitiling the ſame rightly, <hi>Speculum peccatoris:</hi> A cleare chriſtall indeede, and a liuely looking glaſſe, for all looſe liuers, perfectly to view themſelues, and their imperfecti<g ref="char:EOLhyphen"/>ons therein: which being daily practi<g ref="char:EOLunhyphen"/>zed and duely performed, may ſerue by the grace of <hi rend="sup">v</hi> God, and his aſſiſt<g ref="char:EOLhyphen"/>ance, to make them neither idle, nor vnfruteful in the knowledge of them<g ref="char:EOLhyphen"/>ſelues<note n="u" place="margin">
+                  <hi>Epheſ.</hi> 2, 8 9. <hi>Epheſ.</hi> 3.16.17, 18 20.</note> and our Lord Ieſus Chriſt,<note n="x" place="margin">
+                  <hi>Gen.</hi> 18.27.</note> but ſtrong as <hi>Sampſon,</hi>
+               <note n="y" place="margin">2, <hi>Pet,</hi> 1, 8</note> warie as <hi>Dauid</hi>
+               <note n="x" place="margin">
+                  <hi>Iudg</hi> 13, 25</note>, and wiſe as <hi>Salomon</hi>
+               <note n="a" place="margin">
+                  <hi>Pſal</hi> 119, 9 10 11</note>, The ſame book (for the benefit of the Engliſh Rea<g ref="char:EOLhyphen"/>der) haue I tranſlated faithfully and truly quoted in the margeant, to my great trauell, with places of Scripture, and touchſtone of the truth, which the brightnes of the euerlaſting light, and the vndefiled mirrour of the Ma<g ref="char:EOLhyphen"/>ieſtie of God<note n="b" place="margin">1 <hi>King,</hi> 4 29, 30 31</note>, from whence this little Glaſſe hath borrowed his brightnes<note n="c" place="margin">
+                  <hi>Wiſd,</hi> 7, 26</note>, as the Moone doth from the bright<g ref="char:EOLhyphen"/>nes of the Sunne and likewiſe impar<g ref="char:EOLhyphen"/>teth the ſame vnto the beholders to their exceeding comfort. Where<g ref="char:EOLhyphen"/>fore,<note n="d" place="margin">
+                  <hi>Ioh,</hi> 1, 16</note> accept it willingly, view the ſame
+<pb facs="tcp:4644:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iligently, and reforme thy ſelfe pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ently. The ende thereof is to knowe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy<note n="d" place="margin">1 <hi>Cor.</hi> 11 28 2 <hi>Cor.</hi> 13 5.</note> ſelfe thereby, and not to be ouer wiſe in thyne owne conceite, but to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare the Lorde and eſchewe<note n="e" place="margin">
+                  <hi>Pro.</hi> 3.7.</note> euill, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or hee is a iuſt<note n="f" place="margin">
+                  <hi>Soph.</hi> 3.5</note> and a<note n="g" place="margin">
+                  <hi>Deut.</hi> 7.13.</note> terrible God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>euerely puniſhing the<note n="h" place="margin">
+                  <hi>Sirach.</hi> 23 14 15.</note> careleſſe, the <note n="i" place="margin">
+                  <hi>Pro</hi> 18.9.</note> ſlothfull, and the carnall<note n="k" place="margin">
+                  <hi>Galat.</hi> 4.21.</note> Chriſtian <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat maketh chriſtianitie but an out<g ref="char:EOLhyphen"/>ward<note n="l" place="margin">
+                  <hi>Matth.</hi> 7.22. <hi>Rom</hi> 2 13. <hi>Luc</hi> 13.27.</note> profeſſion, and his libertie a cloake to couer his lewdnes<note n="m" place="margin">1 <hi>Pet</hi> 2.6. <hi>Gal.</hi> 5.13.</note> Beguile not thy ſelfe<note n="n" place="margin">
+                  <hi>Iacob</hi> 1, 26.</note> God is not mocked<note n="o" place="margin">
+                  <hi>pro</hi> 15 3.</note>, neither ſhall vnrighteouſnes enherite <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his kingdom:<note n="p" place="margin">
+                  <hi>Iſa.</hi> 60.19 20 <hi>Reu.</hi> 22.5. 1 <hi>Cor.</hi> 6.9.</note> If God ſpared not the Angels his ſpirituall Meſſengers<note n="q" place="margin">
+                  <hi>Pſal.</hi> 103.12. <hi>Pſal.</hi> 104.4</note> but for their ſinne caſt them downe to hel and deliuered them to the chaines of darknes to be kept vnto damnation:<note n="r" place="margin">2 <hi>Pet.</hi> 2.</note> nor <hi>Adam</hi> our father, the image of his Deitie,<note n="ſ" place="margin">
+                  <hi>Iob.</hi> 4 18. <hi>Iud.</hi> 6.</note> but for once treſpaſing <hi rend="sup">s</hi> pronounced death againſt him: If <hi>Moſes</hi> and <hi>Aaron</hi> the mirrors of god<g ref="char:EOLhyphen"/>lines, for doubting only, at the waters of Meriba<g ref="char:cmbAbbrStroke">̄</g>, were vtterly excluded from the land of promiſe:<note n="t." place="margin">
+                  <hi>Gen</hi> 1.26.</note> If all the tribe of <hi>Beniamin</hi> ſo furthered of their bre<g ref="char:EOLhyphen"/>thren<note n="v" place="margin">
+                  <hi>Gen.</hi> 3.12.17.</note> ſo fauoured of God,<note n="u." place="margin">
+                  <hi>Numb.</hi> 20.6.</note> 
+               <note n="u" place="margin">
+                  <hi>Number.</hi> 20.24. <hi>Deut.</hi> 32 31.</note> ſo firme<g ref="char:EOLhyphen"/>ly <note n="x." place="margin">
+                  <hi>Gen.</hi> 44 33</note> 
+               <note n="x" place="margin">
+                  <hi>Gen.</hi> 43.14.</note>
+               <pb facs="tcp:4644:12"/>
+ſetled in the heatt of Iewry <hi rend="sup">y</hi> for the only abuſing of a Leuites wife, were miſerably ſlaine with the edge of the ſword, men women and children, (ſix hundred excepted) by the Lords ap<g ref="char:EOLhyphen"/>pointment, their cities razed, the cat<g ref="char:EOLhyphen"/>tell conſumed, their houſes burnt vp, and their land left deſolate.<note n="z" place="margin">Ioſhua, <hi>18, 20,</hi> &amp;c.</note> If <hi>Saule</hi> the Lords<note n="a," place="margin">Marke al the ſtorie from Iudg. the <hi>19.</hi> to the ende of the boooke. Slayne of Beniamin in one daye therefore, <hi>25</hi> thouſand</note> choſen endued with his ſpirit<note n="b" place="margin">1 <hi>Sam.</hi> 9 17.</note>, for one treſpaſſe committed, <note n="c" place="margin">10 19. 11 12 13.</note> was diueſted of his kingdome<note n="d" place="margin">17 28</note>, de<g ref="char:EOLhyphen"/>graded of his dignitie, ſpoiled<note n="e" place="margin">1 <hi>Samuel</hi> 16.14.</note> of his ſpirit, giuen ouer to Satan, himſelf to the ſword,<note n="f" place="margin">1 <hi>Samu.</hi> 31 4.</note> his children<note n="g" place="margin">
+                  <hi>Ibid,</hi> 9. 2. <hi>Sam</hi> 21.9</note> to the gal<g ref="char:EOLhyphen"/>lowes and his houſe committed to vt<g ref="char:EOLhyphen"/>ter deſtruction.</p>
+            <p>If <hi>Dauid</hi> the deareling and faithfull friend of God,<note n="h" place="margin">1 <hi>Samuel</hi> 13.14.</note> coulde not eſcape pu<g ref="char:EOLhyphen"/>niſhment for his ſinne committed<note n="i" place="margin">1 <hi>Chroni.</hi> 21.13.</note>, but felt greeuouſly what it was to fall into the handes of the Lorde, for all his former integritie<note n="k" place="margin">2 <hi>Samu</hi> 14</note> what art thou to looke for, that walloweſt in wic<g ref="char:EOLhyphen"/>kednes<note n="l" place="margin">1 <hi>Chro.</hi> 29.3</note> filthy and abhominable, and drinkeſt iniquitie, as it were water?<note n="m" place="margin">1. <hi>Samu.</hi> 29 3</note> for the which thing ſake, the wrath of God commeth vpon the children of diſobedience. Shall not the reiecti<g ref="char:EOLhyphen"/>on <note n="n" place="margin">2 <hi>pet.</hi> 2.</note> 
+               <note n="o" place="margin">
+                  <hi>Iob.</hi> 15, 16.</note> 
+               <note n="p" place="margin">
+                  <hi>Iob.</hi> 15, 16.</note> 
+               <note n="q" place="margin">
+                  <hi>Col.</hi> 3.6.</note>
+               <pb facs="tcp:4644:12"/>
+of Caine,<note n="r" place="margin">
+                  <hi>Gen.</hi> 4.11</note> the drowning of the world,<note n="ſ" place="margin">
+                  <hi>Gen.</hi> 7, 20</note> the burning of Sodom,<note n="t" place="margin">
+                  <hi>Gen.</hi> 19.24</note> the ſinking of <hi>Corah,</hi>
+               <note n="v" place="margin">
+                  <hi>Num</hi> 16.1</note> &amp; his companions, the puniſhment of Iſraell,<note n="x" place="margin">
+                  <hi>Num.</hi> 14 45</note> the capti<g ref="char:EOLhyphen"/>uitie of Iuda<note n="y" place="margin">
+                  <hi>Iere.</hi> 4.7.</note> the ſubuerſion of the te<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ple<note n="z" place="margin">2 <hi>Ringes</hi> 25.9</note>. the ſlaughter of <hi>Nadab.</hi>
+               <note n="a" place="margin">
+                  <hi>Num.</hi> 3 4 <hi>Leuit</hi> 10.2.</note> the fall of <hi>Ananias</hi>
+               <note n="b" place="margin">
+                  <hi>Acts</hi> 5.5</note>, the conſumptio<g ref="char:cmbAbbrStroke">̄</g> of <hi>Herode</hi> 
+               <note n="c" place="margin">
+                  <hi>Acts.</hi> 12.23</note> nor the miſerable maſſacre of Iſraels <note n="d" place="margin">Ioſephus de bello Iu. lib. <hi>1.</hi> cap. <hi>12</hi> &amp; <hi>3</hi>
+               </note> poſteritie, moue the to amendment, <note n="e" place="margin">
+                  <hi>Ro.</hi> 15.4.</note> but muſt needes abuſe the patience and the long ſuffering of God, not knowing that his bou<g ref="char:cmbAbbrStroke">̄</g>tifulnes leadeth the to repentance? Thou thou (I ſay) that for the hardnes of thy heart, canſt not repent, heapeſt to thy ſelfe wrath, againſt the day of anger<note n="f" place="margin">
+                  <hi>Rom.</hi> 24.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5</note>. Wherefore take heede in time,<note n="g" place="margin">
+                  <hi>Gal.</hi> 5.9.10.</note> leaſt with <hi>Eſau,</hi> thou repenteſt too late, and findeſt no fauour though thou ſeek it with teares <note n="h" place="margin">
+                  <hi>Heb.</hi> 12.17.</note> Make no long tarying to turne vnto the Lord put it not of from day to day: for ſodenly ſhal his wrath come, and in the time of vengeance he ſhall deſtroy<note n="i" place="margin">
+                  <hi>Sira.</hi> 5.7.</note> thee. The axe is laid to the roote of the tree, and euery tree that bringeth not forth good frute, ſhalbe hewen downe, &amp; caſt into the<note n="k" place="margin">
+                  <hi>Luc.</hi> 3.9.</note> fire. Repent<note n="l" place="margin">
+                  <hi>Iſa.</hi> 1.18. <hi>Ierem.</hi> 1.22. <hi>Ezech.</hi> 18 31 <hi>Zach.</hi> 1.2. <hi>Malac.</hi> 3.7</note> therefore preſently, &amp; bring foorth frutes worthy of repentance:<note n="m" place="margin">
+                  <hi>Mat.</hi> 3.8</note>
+               <pb facs="tcp:4644:13"/>
+confirme thine election,<note place="margin">
+                  <hi>Luc.</hi> 3.8.</note> 
+               <note n="i" place="margin">2. <hi>Pet.</hi> 1.10</note> and finiſh thy ſaluation with feare &amp; trembling.<note n="k" place="margin">
+                  <hi>Phi.</hi> 2.12.</note> The daye of the Lorde is at hande.<note n="l" place="margin">1. <hi>Pet.</hi> 4.7. 2. <hi>Pet.</hi> 3.10.</note> Let vs therefore be ſober and watch,<note n="m" place="margin">1. <hi>Pet.</hi> 4.7 <hi>Mat.</hi> 25.13. <hi>Luc.</hi> 21.36.</note> continuing in prayer, that wee may be made worthy to eſcape ſo great a ven<g ref="char:EOLhyphen"/>geance: <note n="n" place="margin">1. <hi>The.</hi> 4.16 4, 17.</note> that when the Lorde him<g ref="char:EOLhyphen"/>ſelfe ſhall deſcend from heauen with a ſhoute, &amp; with the voice of the Arch<g ref="char:EOLhyphen"/>angell and with the trumpet of God, and the dead in him ſhall<note n="o" place="margin">2. <hi>Tim.</hi> 1.17.</note> ariſe) that wee may be caught in the cloudes,<note place="margin">LI. The .4.16 4, 17.</note> to meete the Lord in the aire, euer to co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tinue with him. To whome with the Father, and the holy Ghoſt, three perſons, one onely wiſe, euerla<g ref="char:EOLhyphen"/>ſting, immortall, and inui<g ref="char:EOLhyphen"/>ſible God, be honor &amp; glory, for euer and euer.</p>
+            <closer>
+               <salute>Farewell in him that we hope to behold in the aire, to our ex<g ref="char:EOLhyphen"/>ceeding great comfort.</salute>
+               <signed>W. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:4644:13"/>
+            <head>Hovv profitable this Glaſſe is to the faith<g ref="char:EOLhyphen"/>full beholders <hi>thereof.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>Cap. 1,</hi> O that they were wiſe, vnder<g ref="char:EOLhyphen"/>ſtoode this, and woulde prouide prudently for the latter end.<note n="a" place="margin">
+                     <hi>Deut.</hi> 23 29</note>.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as we are trauelers<note n="b." place="margin">
+                     <hi>Hebr.</hi> 11 13 1. <hi>Cro.</hi> 29.15</note> on the high way<note n="c" place="margin">
+                     <hi>Pro.</hi> 14.12 <hi>Proue.</hi> 16.25</note> of this tranſitory<note n="d" place="margin">
+                     <hi>Iob.</hi> 7.2</note> life &amp; our daies<note n="e" place="margin">
+                     <hi>Pſal.</hi> 144.4.</note> paſſe away like a ſhadow<note n="f" place="margin">
+                     <hi>Iob.</hi> 8 9.</note>, we had great need<note n="g." place="margin">2. <hi>Theſ.</hi> 3.7.</note> co<g ref="char:cmbAbbrStroke">̄</g>tinually<note n="h" place="margin">1. <hi>Theſ.</hi> 5.6. 2. <hi>Theſ.</hi> 3.13.</note> to recount that, that the frailty<note n="i." place="margin">
+                     <hi>Iob.</hi> 8 9</note>
+                  <pb n="2" facs="tcp:4644:14"/>
+and weakneſſe<note n="k." place="margin">
+                     <hi>Iſa.</hi> 31.3</note> 
+                  <note n="k." place="margin">
+                     <hi>Rom.</hi> 7.19</note> of our nature <note n="l" place="margin">
+                     <hi>Rom.</hi> 8 3</note> vrgeth vs ſo often to forget <note n="m." place="margin">2 <hi>Cron.</hi> 24.22</note> whereof almightie God (fa<g ref="char:EOLhyphen"/>uouring our preferment<note n="n" place="margin">
+                     <hi>Ezechiel.</hi> 33 11 <hi>Malach.</hi> 3 18</note>) hath by his holy ſeruant Mo<g ref="char:EOLhyphen"/>ſes aduertized vs in theſe few wordes following<note n="o" place="margin">
+                     <hi>Deu.</hi> 32 29</note>. <hi>O that they were wiſe &amp;c.</hi> whereby we may eaſelye ſee and perceiue what he requires at our ha<g ref="char:cmbAbbrStroke">̄</g>ds<note n="p." place="margin">
+                     <hi>Mich.</hi> 6.8</note> and how we may ſhunne and auoide the daunger of death<note n="q" place="margin">
+                     <hi>Prou.</hi> 14 27 1. <hi>Peter.</hi> 3 22.</note> if wee obſerue this heauenly aduiſement<note n="r" place="margin">
+                     <hi>Sirach.</hi> 7.17 <hi>Sira.</hi> 18.23 <hi>Sirarch.</hi> 18 24.</note> that he himſelfe (in mercy) wiſheth vs to fol<g ref="char:EOLhyphen"/>lowe, ſaying, <hi>O that they were w ſe &amp;c.</hi> O profitable<note n="ſ." place="margin">
+                     <hi>Gal.</hi> 6.9.</note> happy<note n="t" place="margin">
+                     <hi>Num.</hi> 23.10</note> and heauenly counſell, that may ſerue the faithfull<note n="v" place="margin">
+                     <hi>Iſa.</hi> 46.8 <hi>Io.</hi> 10.28.</note> as a Glaſſe of vaine-glory<note n="u" place="margin">
+                     <hi>Sirach.</hi> 7.36. 2. <hi>Cor.</hi> 4.18.</note> a ſafe<g ref="char:EOLhyphen"/>gard againſt ſin<note n="x" place="margin">2. <hi>Pet.</hi> 1 10.</note> &amp; a perfect
+<pb n="3" facs="tcp:4644:14"/>
+pathway to life euerlaſtinge faithfullye<note n="y" place="margin">
+                     <hi>Hebr</hi> 12 14</note> deliuered vnto them by the ſame wordes: <hi>O that they were wiſe. &amp;c.</hi> O hol<g ref="char:EOLhyphen"/>ſome leſſon of our ſweete Sa<g ref="char:EOLhyphen"/>uiour<note n="z" place="margin">
+                     <hi>Zach</hi> 9.9.</note> wher-hence we receiue inſtruction to wiſdome,<note n="a" place="margin">
+                     <hi>Luc.</hi> 16.8</note> a ca<g ref="char:EOLhyphen"/>ueat to continency<note n="b" place="margin">2. <hi>Samu.</hi> 13 12</note>, a precept to Prouidence<note n="c" place="margin">
+                     <hi>Sirach.</hi> 7 36.</note>, arule of righ<g ref="char:EOLhyphen"/>teouſnes<note n="d" place="margin">2 <hi>Tim.</hi> 2.22. <hi>Gal.</hi> 6.16. <hi>Phil.</hi> 3.16.</note>, a remorſe of Con<g ref="char:EOLhyphen"/>ſcience<note n="e" place="margin">
+                     <hi>Rom.</hi> 2.15</note>, and an atchieuement vnto heauenly graces<note n="f" place="margin">
+                     <hi>Tit.</hi> 2.11.</note> tho<g ref="char:EOLhyphen"/>row Ieſus Chriſt our Lorde<note n="g" place="margin">
+                     <hi>Luc.</hi> 1.17</note>. And therefore he ſaith. <hi>O that they were wiſe &amp;c.</hi> O the won<g ref="char:EOLhyphen"/>derful goodnes of our crea<g ref="char:EOLhyphen"/>tour, the infinite loue<note n="i" place="margin">
+                     <hi>Rom.</hi> 5.19</note> of our redeemer<note n="k" place="margin">1, <hi>Io.</hi> 4.9.</note>,<note n="h" place="margin">
+                     <hi>Pſal.</hi> 72.1</note> and the exceeding comfort<note n="l" place="margin">
+                     <hi>Iohn.</hi> 15.26</note> of our ſweet ſancti<g ref="char:EOLhyphen"/>fier<note n="m" place="margin">
+                     <hi>Acts</hi> 6.</note>, we wicked<note n="n" place="margin">
+                     <hi>Pal.</hi> 81.12.</note>, negligent<note n="o" place="margin">
+                     <hi>Roma.</hi> 3.12.</note>, &amp; vnprofitable ſeruants<note n="p" place="margin">
+                     <hi>Luc.</hi> 17.10.</note> that by our owne demerits<hi rend="sup">q</hi> haue
+<pb n="4" facs="tcp:4644:15"/>
+rather deſerued death than life<note n="r" place="margin">
+                     <hi>Rom.</hi> 11.32</note>, (behold) are now inui<g ref="char:EOLhyphen"/>ted to ſaluation by God him ſelfe<note n="ſ" place="margin">
+                     <hi>Deut.</hi> 32 19</note> that pardoneth our in<g ref="char:EOLhyphen"/>iquities<note n="s" place="margin">
+                     <hi>Mich.</hi> 7.18</note> and woorketh in vs al in all<note n="t" place="margin">
+                     <hi>Phillip.</hi> 2 13</note>, who then (vnleſſe he were a meere reprobate<note n="v" place="margin">
+                     <hi>Rom.</hi> 9.21</note> gi<g ref="char:EOLhyphen"/>uen vp to vile affections<note n="u" place="margin">
+                     <hi>Rom.</hi> 1 26</note> paſt feeling, to worke wickedneſſe with greedineſſe<note n="x" place="margin">
+                     <hi>Epheſi.</hi> 4 19</note>) hearinge theſe moſt louing wiſhes of our good God, and well wey<g ref="char:EOLhyphen"/>ing the ſame, would not moſt vehemently reioice inwardly<note n="y" place="margin">
+                     <hi>Pſal.</hi> 96 11</note> and be more gladde than his tongue were able any way to expreſſe<note n="z" place="margin">
+                     <hi>Pſa</hi> 122 1 1 <hi>Ch.</hi> 29 9</note> the ſame, to ſee what great care<note n="a" place="margin">
+                     <hi>Pſal.</hi> 8.6. <hi>&amp;c.</hi>
+                  </note> and ſingular re<g ref="char:EOLhyphen"/>gard<note n="b" place="margin">
+                     <hi>Iſa.</hi> 1.9.</note>, the Almightie God<note n="c" place="margin">
+                     <hi>Gen.</hi> 17.1</note>, King of the heauens<note n="d" place="margin">
+                     <hi>Reuel.</hi> 19 16</note> Lord of Angelles<note n="e" place="margin">
+                     <hi>Pſal.</hi> 104 4</note> and creatour of all thinges<note place="margin">
+                     <hi>Reuel.</hi> 4.</note> hath to vs ward that are conceiued in ſinne, borne
+<pb n="5" facs="tcp:4644:15"/>
+in iniquitie<note n="g" place="margin">
+                     <hi>Pſal.</hi> 51 5</note>, poore<note n="h" place="margin">2 <hi>Cor.</hi> 8.9</note>, wret<g ref="char:EOLhyphen"/>ched<note n="i" place="margin">
+                     <hi>Pſal</hi> 22.6.</note>, and miſerable ſinners<note n="k" place="margin">
+                     <hi>Tit.</hi> 2.3</note>, hauing our conuerſation ac<g ref="char:EOLhyphen"/>cording to the courſe of the world in the luſt of our fleſh enimies to God, and by na<g ref="char:EOLhyphen"/>ture the children of wrath &amp; diſobedience<note n="l" place="margin">
+                     <hi>Epheſi</hi> 2.3</note>. And therefore ought we likewiſe to haue a ſpeciall care, that aboue all things<note n="m" place="margin">
+                     <hi>Luc.</hi> 10<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 27 <hi>Deut.</hi> 6 5. <hi>Leu</hi> 19.18</note> we obey his will dili<g ref="char:EOLhyphen"/>gently<note n="n" place="margin">
+                     <hi>Iſa.</hi> 6.8. <hi>Mar.</hi> 1.18</note>, imbrace it duetiful<g ref="char:EOLhyphen"/>ly<note n="o" place="margin">
+                     <hi>Ephe.</hi> 5 8</note>, and to the very vttermoſt of our powers fulfill the ſame effectually<note n="p" place="margin">1 <hi>Io.</hi> 2 3. <hi>Hebr.</hi> 107</note>, otherwiſe, if wee do not ſo<note n="q" place="margin">
+                     <hi>Deu.</hi> 28 58</note>, there remaineth an euerlaſting woe, and miſe<g ref="char:EOLhyphen"/>rie vnto vs<note n="r" place="margin">
+                     <hi>Leuit.</hi> 26 14. <hi>Lament.</hi> 2 17 <hi>Malac.</hi> 2 2 <hi>Baruc.</hi> 1.20.</note> pronounced by the Apoſtle ſaying, <hi>We are of al men moſt miſerable</hi>
+                  <note n="ſ" place="margin">1. <hi>Cor</hi> 15 19.</note> 
+                  <hi>&amp;c.</hi> In vaine truly and to to purpoſe<note n="s" place="margin">
+                     <hi>Col.</hi> 2 22.</note> do we enbuſie our ſelues to obey
+<pb n="6" facs="tcp:4644:16"/>
+the Lord<note n="t" place="margin">
+                     <hi>Iſa.</hi> 1.11.</note> in any thing, vnleſſe that firſt vnfainedly<note n="v" place="margin">1 <hi>Pet.</hi> 4.8 1 <hi>Tim.</hi> 1.5</note> we hate thoſe thinges (from the bot<g ref="char:EOLhyphen"/>tome of our hartes<note n="u" place="margin">
+                     <hi>Pſal.</hi> 139 21.</note>) that wee knowe to bee lothſome and hatefull vnto him<note n="x" place="margin">
+                     <hi>Reuel.</hi> 2.2.6.</note> and con<g ref="char:EOLhyphen"/>trariwiſe hartely hold<note n="y" place="margin">
+                     <hi>Reu</hi> 2.26</note>, &amp; tru<g ref="char:EOLhyphen"/>ly embrace<note n="z" place="margin">
+                     <hi>Pſal</hi> 119.47</note> ſuch things as we perceiue to be both pleaſant and acceptable in his ſight<note n="a" place="margin">
+                     <hi>Hebr.</hi> 13 21.</note>, wherefore hartely &amp; humbly is our heauenly father<note n="b" place="margin">
+                     <hi>Mat.</hi> 6 9</note> to be continually<note n="c" place="margin">1 <hi>Theſ.</hi> 4, 17.</note> called vpon of vs in the name of his beloued ſonne Chriſt Ieſus<note n="d" place="margin">
+                     <hi>Luc</hi> 3 22</note>, that hee would vouchſafe to worke in our harts<note n="e" place="margin">
+                     <hi>Pſal.</hi> 1.19 14</note> a liking of his wil<note n="f" place="margin">
+                     <hi>Phil.</hi> 2.13</note> and a lothing of wickedneſſe<note n="g" place="margin">
+                     <hi>Eph.</hi> 5.12</note>
+ſtil reching his helping hand to vs (in his mighte)<note n="h" place="margin">
+                     <hi>Mat</hi> 14.31.</note> to per<g ref="char:EOLhyphen"/>forme that, that (in mercy<note n="i" place="margin">
+                     <hi>Phi.</hi> 3 21</note>) he exhorteth vs vnto, ſaying, <hi>O that they were wiſe &amp;c</hi>
+                  <note n="k" place="margin">
+                     <hi>Pſal.</hi> 86.4</note>.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="7" facs="tcp:4644:16"/>
+               <head>Chap. <hi>2. The neceſſitie of this Glaſſe by the example of</hi> Samp<g ref="char:EOLhyphen"/>ſon, Dauid, and Solomon.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Eigh (welbeloued) this leſſon that thou readeſt: for the due co<g ref="char:cmbAbbrStroke">̄</g>ſiderati<g ref="char:EOLhyphen"/>on hereof, is y<hi rend="sup">e</hi> pulling down of pride<note n="a" place="margin">
+                     <hi>Iſa.</hi> 47.7</note>, the extinguiſhing of enuie<note n="b" place="margin">
+                     <hi>Prou.</hi> 14 30</note>, the medicine of malice<note n="c" place="margin">1 <hi>Pet.</hi> 2.1</note>, the flight of fleſhlye luſt<note n="d" place="margin">
+                     <hi>Col.</hi> 3.5.</note>, the gall of vaine-glorye<note n="e" place="margin">
+                     <hi>Eccl.</hi> 11.8</note>, an entrance into diſcipline<note n="f" place="margin">
+                     <hi>Eccle.</hi> 12.1</note>, a hauen vnto holineſſe<note n="g" place="margin">
+                     <hi>Sira.</hi> 7.36</note>, and the neere way<note n="h" place="margin">
+                     <hi>Wiſ.</hi> 5.7</note> (though nar<g ref="char:EOLhyphen"/>row<note n="i," place="margin">
+                     <hi>Math</hi> 7.13. 1 <hi>Pet.</hi> 1.4.</note>) that leadeth to life e<g ref="char:EOLhyphen"/>uerlaſting<note n="k" place="margin">
+                     <hi>Ro.</hi> 6.23.</note>, purchaſed vnto vs by Chriſt our righteouſ<g ref="char:EOLhyphen"/>nes<note n="l" place="margin">
+                     <hi>Ier.</hi> 23 6.</note> and therefore he ſaieth.
+<pb n="8" facs="tcp:4644:17"/>
+                  <hi>O that they wer wiſe &amp;c.</hi> but a<g ref="char:EOLhyphen"/>las, too too few attain to per<g ref="char:EOLhyphen"/>fect wiſdome, and true vnder<g ref="char:EOLhyphen"/>ſtanding in deede<note n="m" place="margin">
+                     <hi>Iſa</hi> 1.3.</note>: before whoſe eies the knowledge of their frailtie<note n="n" place="margin">
+                     <hi>Gen.</hi> 6.5</note>, the corruption of their nature<note n="o" place="margin">
+                     <hi>Iob</hi> 15.16 <hi>Iere.</hi> 17 9 <hi>Rom.</hi> 3.4</note>, the remem<g ref="char:EOLhyphen"/>brance of their ſins<note n="p" place="margin">
+                     <hi>Pſa</hi> 5 3</note>, the me<g ref="char:EOLhyphen"/>ditation of their death<note n="q" place="margin">
+                     <hi>Sirach.</hi> 7.36 <hi>Sira.</hi> 41.2,</note> or the careful conſideration of their owne danger<note n="r" place="margin">
+                     <hi>Ia.</hi> 1.14.</note>, is ſtill in freſhe memorie<note n="ſ" place="margin">
+                     <hi>Eccl.</hi> 12.1 <hi>&amp;c Deu.</hi> 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.29</note>. Howe profitable then is this Glaſſe of vaine-glory, that leadeth thee dire<g ref="char:EOLhyphen"/>ctly<hi rend="sup">s</hi> to perfecte wiſdome, and true holineſſe, without the which no man ſhall ſee God<note n="t" place="margin">
+                     <hi>Hebr.</hi> 12 14.</note>: for aſſure thy ſelf, that if thou faithfully, and often veweſt thy ſelfe herein thou ſhalt be<g ref="char:EOLhyphen"/>come ſtronger then Samp<g ref="char:EOLhyphen"/>ſon<note n="v" place="margin">
+                     <hi>Iudg.</hi> 14 8</note>, warier then Dauid<note n="u" place="margin">1 <hi>Samuel</hi> 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.32. <hi>Pſal.</hi> 119.9. <hi>&amp;c.</hi>
+                  </note>, and wiſer than Solomon<note n="x" place="margin">1 <hi>King</hi> 3 1.</note>, for
+<pb n="9" facs="tcp:4644:17"/>
+they neglecting to beholde themſelues in this Glaſſe of vaine-glory, ranne headlong into their filthy and carnall deſires<note n="y" place="margin">
+                     <hi>Iud.</hi> 6 8. <hi>Iud.</hi> 14.7. 2 <hi>Sam</hi> 11 4 1 <hi>Kin.</hi> 11.12 1 <hi>Kin.</hi> 3.4</note> without caſting of Perrils, or doubt of any fu<g ref="char:EOLhyphen"/>ture inconuenience<note n="z" place="margin">1 <hi>Theſ.</hi> 5 3</note>, but be<g ref="char:EOLhyphen"/>came patterns of folly to all the worlde<note n="a" place="margin">
+                     <hi>Deut.</hi> 3.21.</note>, whereby wee learne this much, that if ſuch men, endued with ſo great wiſdome and courage, ſuſtai<g ref="char:EOLhyphen"/>ned ſo great a foile<note n="b" place="margin">
+                     <hi>Iudg.</hi> 16 30 2 <hi>Samu</hi> 15 14. 1 <hi>Kin.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.14</note>, wee ought with al indeuour wari<g ref="char:EOLhyphen"/>ly to walke<note n="c" place="margin">
+                     <hi>Rom.</hi> 13 13</note>, beeyng of our ſelues ſo weake<note n="d" place="margin">
+                     <hi>Rom</hi> 3 3.</note> and ſo igno<g ref="char:EOLhyphen"/>raunt<note n="e" place="margin">1 <hi>Pet.</hi> 2, 11. 1. <hi>Pet</hi> 5 8 2 <hi>Pet.</hi> 3.11. <hi>&amp;c.</hi>
+                  </note>, for the fall of theſe three notable Champions is left written, and recorded for our learning<note n="f" place="margin">2 <hi>Tim.</hi> 3.16. 2 <hi>Timothy</hi> 3.17.</note> not to that end and purpoſe, that it ſhould be vnto any an occaſion of ſinne
+<pb n="10" facs="tcp:4644:18"/>
+to commit the like folly<note n="g" place="margin">
+                     <hi>Pſal.</hi> 78.10 <hi>Eze.</hi> 20.18 <hi>Act.</hi> 7.51.</note>: but a mirror rather thereby to be more wary and vigilant, and to take the better heede by o<g ref="char:EOLhyphen"/>ther mens harmes<note n="h" place="margin">1 <hi>Cor.</hi> 10 1. <hi>&amp;c.</hi>
+                  </note> that we truſt not too much (as they did) to our owne ſtrength<note n="i" place="margin">
+                     <hi>Epheſ,</hi> 6.11</note>, or preſume too farre in our owne wiſdomes<note n="k" place="margin">
+                     <hi>Rom</hi> 12.3, 16</note>, but that we be alwaies fearefull,<note n="l" place="margin">
+                     <hi>Phi.</hi> 2 12 <hi>He.</hi> 12.28 <hi>Iud.</hi> 23.</note> alwaies watchfull<note n="m" place="margin">
+                     <hi>Luc.</hi> 12 37 1 <hi>Pet.</hi> 5.8.</note>, alwaies ſober<note n="n" place="margin">1 <hi>Pet.</hi> 4.7</note>, and neuer forgetfull of our owne mortalitie<note n="o" place="margin">
+                     <hi>Ecc.</hi> 12.1</note>, for they that negligently and looſely regard theſe thinges, are in truth and deed, neither wiſe<note n="p" place="margin">
+                     <hi>Ier.</hi> 5.21</note>, nor any way conſideratiue<note n="q" place="margin">
+                     <hi>Pſal</hi> 92.6 <hi>Pſal.</hi> 94.8</note>, but thruſt themſelues as brut beaſtes (in whom there is no vnderſtanding<note n="r" place="margin">
+                     <hi>Pſal.</hi> 49.20 <hi>Prou.</hi> 4.19</note>) headlong in<g ref="char:EOLhyphen"/>to their owne vtter ruine and deſtruction<hi rend="sup">ſ</hi>. Therefore God himſelfe (to the end that wee
+<pb n="11" facs="tcp:4644:18"/>
+ſhoulde not bee careleſſe and drouſie<note n="s" place="margin">
+                     <hi>Leuit.</hi> 20 4 <hi>Ioſua.</hi> 18.3</note>, but rather that our mindes ſhould be alwaies vi<g ref="char:EOLhyphen"/>gilant and carefull for the at<g ref="char:EOLhyphen"/>taining of true wiſedome<note n="t" place="margin">
+                     <hi>Pro.</hi> 8 33.</note>) willeth our welfare<note n="v" place="margin">
+                     <hi>Ezec,</hi> 33 11.</note> and wai<g ref="char:EOLhyphen"/>neth vs to warineſſe by theſe words that follow, <hi>O that they were wiſe.</hi> Wherefore it is our part likewiſe carefully to con<g ref="char:EOLhyphen"/>ſider the ſame<note n="u" place="margin">
+                     <hi>Pſ.</hi> 143 5 <hi>Pro.</hi> 22.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and with the inwarde eie of Reaſon, not ſleightly, but ſeriouſly<note n="x" place="margin">
+                     <hi>Pſ.</hi> 78: 2 <hi>Pro.</hi> 22.19 <hi>Pro.</hi> 2.1.2 3 4</note> viewe this mirrour of miſery, and weigh well the waight of ſo holeſome an admonition<note n="y" place="margin">
+                     <hi>Pro.</hi> 2 11</note>: for euen as frankenſenſe yeel<g ref="char:EOLhyphen"/>deth no ſmel, vnles it be in the fire orderly broiled: ſo ſauo<g ref="char:EOLhyphen"/>reth no part of Scripture, vn<g ref="char:EOLhyphen"/>les it be firſt in the hart of ma<g ref="char:cmbAbbrStroke">̄</g> duely digeſted.<note n="z" place="margin">
+                     <hi>Luc.</hi> 9.44. <hi>Luc.</hi> 8.12. <hi>Hebr.</hi> 4.2</note>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="12" facs="tcp:4644:19"/>
+               <head>Chap. <hi>3. A viewe of mans miſerie,</hi> and ſhort continuance.</head>
+               <head type="sub">O that they were wiſe, vnderſtod this, and would prudently pro<g ref="char:EOLhyphen"/>uide for their latter ende.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Ehold, beloued in the Lorde, three thinges deliuered vnto vs hereby: to wit, <hi>knowledge</hi>
+                  <note n="a" place="margin">
+                     <hi>Dan.</hi> 1.17</note>, <hi>vnderſtanding</hi>
+                  <note n="b" place="margin">
+                     <hi>Pſal.</hi> 119 34 <hi>Hoſ.</hi> 14.10</note>, and <hi>prouidence</hi>
+                  <note n="c" place="margin">
+                     <hi>Eccle</hi> 9.12, 1 <hi>Per.</hi> 4 7</note>, whereby it is apparant, that God would haue vs to knowe, to vnder<g ref="char:EOLhyphen"/>ſtand and to prouide for our departure: but firſt to knowe what? this our life to be blith <note n="d" place="margin">
+                     <hi>Iob.</hi> 14 5 <hi>Pſ.</hi> 103.15</note> dangerous<note n="e" place="margin">
+                     <hi>Iam.</hi> 1.14</note> and ſhort<note n="f" place="margin">
+                     <hi>Pſal.</hi> 90.9.10</note>, ſtuf<g ref="char:EOLhyphen"/>fed with miſeries<note n="g" place="margin">
+                     <hi>Iob.</hi> 7.1.</note>, ſubiect to vanitie<note n="h" place="margin">
+                     <hi>Pſa.</hi> 114 4</note>, defiled with ſinne<note n="i" place="margin">
+                     <hi>Ro.</hi> 5, 12.</note>, corrupt with deſire<note n="k" place="margin">
+                     <hi>Rom.</hi> 7.7</note>, and e<g ref="char:EOLhyphen"/>uer
+<pb n="13" facs="tcp:4644:19"/>
+ſliding towards an<note n="l" place="margin">
+                     <hi>Iob.</hi> 8.9</note> end: for there is no defenſe againſt the graue<note n="m" place="margin">
+                     <hi>Sira</hi> 41 4</note>. That the more ſlippery, vncertaine, and mi<g ref="char:EOLhyphen"/>ſerable this life appeareth: it might the rather be contem<g ref="char:EOLhyphen"/>ned for the loue and longing, that we ought to haue vnto that life that neuer ſhall haue ending<note n="n" place="margin">
+                     <hi>Phil.</hi> 1.23 <hi>Col.</hi> 3, 1.2, <hi>Luc.</hi> 18 13</note>.</p>
+               <p>Likewiſe, God wiſheth vs well to vnderſtand, what? our owne eſtate: that, as naked we came oute of our mothers wombe, ſo naked we muſt re<g ref="char:EOLhyphen"/>turne againe<note n="o" place="margin">
+                     <hi>Iob</hi> 1.21 <hi>Eccle</hi> 5 14 <hi>Wiſd.</hi> 7.6.</note>: for as earth we are, to earth eft ſoones we are to be conuerted<note n="p" place="margin">
+                     <hi>Gen.</hi> 3.19.</note>.</p>
+               <p>With nakednes and wee<g ref="char:EOLhyphen"/>ping, we beganne our enter<g ref="char:EOLhyphen"/>lude<note n="q" place="margin">
+                     <hi>Wiſ.</hi> 7.3 <hi>Eccleſ.</hi> 1 4</note>: with paine and vexa<g ref="char:EOLhyphen"/>tion, are our partes continu<g ref="char:EOLhyphen"/>ed<note n="r" place="margin">
+                     <hi>Sira,</hi> 40.1. <hi>&amp;c.</hi>
+                  </note>, and now with griefe, and
+<pb n="41" facs="tcp:4644:20"/>
+ſorow, muſt we take our fare well<note n="ſ" place="margin">
+                     <hi>Gen.</hi> 37.35</note>.</p>
+               <p>So is our beginning lamen<g ref="char:EOLhyphen"/>table<note n="s" place="margin">
+                     <hi>Gen.</hi> 3.16.</note>, our continuance wret<g ref="char:EOLhyphen"/>ched<note n="t" place="margin">
+                     <hi>Ecc.</hi> 9.3.</note>, &amp; our departure grie<g ref="char:EOLhyphen"/>uous: for the only remem<g ref="char:EOLhyphen"/>brance of death, is both grie<g ref="char:EOLhyphen"/>uous: and bitter to a man that liueth at reſt, in his poſſeſſi<g ref="char:EOLhyphen"/>ons, and hath proſperitie in al his affaires: yet is it the ordi<g ref="char:EOLhyphen"/>nance and decree of the Lord ouer all fleſh<note n="v" place="margin">
+                     <hi>Sira.</hi> 41.1 <hi>&amp;c.</hi>
+                  </note>.</p>
+               <p>Wherefore vnderſtand thy ſelfe, during thy ſmall abode in this vale of miſery<note n="u" place="margin">
+                     <hi>Pſal.</hi> 23.4</note>, to be here a ſoiourner, and no citti<g ref="char:EOLhyphen"/>zen <note n="x" place="margin">1 <hi>Chron.</hi> 29.15. <hi>Heb</hi> 13 13</note> a waifaring man<note n="y" place="margin">
+                     <hi>Heb.</hi> 12.1</note> in con<g ref="char:EOLhyphen"/>tinuall warrefare<note n="z" place="margin">
+                     <hi>Iob.</hi> 7.1.</note>, needie<note n="a" place="margin">1 <hi>Timot.</hi> 6.7. <hi>Reu.</hi> 3.117</note> poore<note n="b" place="margin">
+                     <hi>Pſa.</hi> 188.15.</note>, beggerly<note n="c" place="margin">
+                     <hi>Iob</hi> 1 21. <hi>Reue.</hi> 3.17</note> weake<note n="d" place="margin">
+                     <hi>Ro.</hi> 8.37</note>, ſickly<note n="e" place="margin">
+                     <hi>Pſa.</hi> 38 3</note>, and miſerable<note n="f" place="margin">
+                     <hi>Iſa.</hi> 51.21. <hi>Iob.</hi> 14.1.</note>, and of no continuance<note n="g" place="margin">
+                     <hi>Pſal.</hi> 9.6. <hi>Iob.</hi> 8.9. <hi>Coll.</hi> 3.15.</note> Then art thou happie, if thou well vn<g ref="char:EOLhyphen"/>derſtande
+<pb n="15" facs="tcp:4644:20"/>
+thine eſtate aright, by this heauenly aduiſement, and engraue it in his heart, e<g ref="char:EOLhyphen"/>uer to continue, obſeruing al<g ref="char:EOLhyphen"/>ſo this rule of righteouſneſſe (that followeth) faithfully.
+<q>
+                     <l>
+                        <hi>Viue Deo gratus, toti mundo tumularus.</hi>
+                     </l>
+                     <l>
+                        <hi>Crimine mundatus ſemper tranſire para<g ref="char:EOLhyphen"/>tus.</hi>
+                     </l>
+                     <l>Liue vnto God a thankfull Wight</l>
+                     <l>But to the world dye<note n="h" place="margin">
+                           <hi>Rom.</hi> 6.4</note>.</l>
+                     <l>Clenſe the from ſinne and vaine de<g ref="char:EOLhyphen"/>lights<note n="i" place="margin">1 <hi>Pet.</hi> 4.2 <hi>Iob.</hi> 8.11. <hi>Rom.</hi> 6, 12.</note>.</l>
+                     <l>Euer readie hence to flye<note n="k" place="margin">
+                           <hi>Luc.</hi> 12.35 36 37 38 39 40</note>.</l>
+                  </q>
+O bleſſed is that man, whoſe heart ſtil watcheth in this co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>templation<note n="l" place="margin">
+                     <hi>Pſa,</hi> 119.9 10 15</note>, carefully conſi<g ref="char:EOLhyphen"/>dering<note n="m" place="margin">
+                     <hi>Pſa</hi> 119 53</note> howe to bee wiſe in<g ref="char:EOLhyphen"/>deede, how to vnderſtande a<g ref="char:EOLhyphen"/>right, and prudently to pro<g ref="char:EOLhyphen"/>uide againſt the day of wrath <note n="n" place="margin">
+                     <hi>Rom.</hi> 2.5</note>. Wherefore praye with the Prophet, and ſay: <hi>Lord, let mee
+<pb n="16" facs="tcp:4644:21"/>
+know my ende, and the number of my daies, that I may be certified how long I haue to liue</hi>
+                  <note n="o" place="margin">
+                     <hi>Pſ.</hi> 39.5.</note> O pro<g ref="char:EOLhyphen"/>fitable praier: O heauenly harmony, and requeſt moſte requiſite: for hereby the holy Prophet craueth not curiou<g ref="char:EOLhyphen"/>ſly <note n="p" place="margin">
+                     <hi>Exod.</hi> 19 12. <hi>Io.</hi> 21.21 <hi>Col.</hi> 5.1. 1 <hi>Tim.</hi> 1.4 <hi>Hebr</hi> 9, 5.</note> to know the ſecret times and ſeaſons, that our heauen<g ref="char:EOLhyphen"/>ly father euerlaſting<note n="q" place="margin">
+                     <hi>Dan.</hi> 4.31</note> and on<g ref="char:EOLhyphen"/>ly wiſe,<note n="r" place="margin">
+                     <hi>Rom.</hi> 16, 27. 1 <hi>Timot.</hi> 1 17.</note> hath reſerued to his owne proper knowledge<note n="ſ" place="margin">
+                     <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 24.36. <hi>Marc,</hi> 13 31. <hi>Acts.</hi> 1.7.</note>, but that he might perfectly perceaue, and knowe as he ſhould, his owne eſtate and condition, viz. himſelfe to be here a meere ſtraunger<note n="s" place="margin">
+                     <hi>Chron.</hi> 29.15</note>, a geſt<note n="t" place="margin">
+                     <hi>Iob.</hi> 7.1</note>, a traueler in this his ſo<g ref="char:EOLhyphen"/>rowfull baniſhment<note n="v" place="margin">
+                     <hi>Ge.</hi> 3.13</note>: &amp; pain full pilgremage<note n="u" place="margin">
+                     <hi>Pſal.</hi> 119 54.</note> a man weake, wretched<note n="x" place="margin">2 <hi>Samu.</hi> 14.14.</note>, and of no continuance<note n="y" place="margin">
+                     <hi>Iob,</hi> 8.9. <hi>Pſal</hi> 39.6 <hi>Iob.</hi> 14.1. <hi>Pſa.</hi> 114 4</note> 
+                  <hi>O then that man would know, What?</hi> his ſinnes
+<pb n="17" facs="tcp:4644:21"/>
+and wickednes committed, how hurtfull they be: as the Prophet Hierem witneſſeth, ſaying: <hi>Know how euill and how hurtfull it is for thee to forſake the Lord thy God.</hi>
+                  <note n="z" place="margin">
+                     <hi>Ierem.</hi> 2.19.</note> Euill in of<g ref="char:EOLhyphen"/>fence, and hurtfull in puniſh<g ref="char:EOLhyphen"/>ment. <hi>O that man would vnder<g ref="char:EOLhyphen"/>ſtand.</hi> What? his eſtate howe vaine it is, as recordeth the Preacher, ſaying: <hi>Vanitie of va<g ref="char:EOLhyphen"/>nities and all is but vanitie</hi>
+                  <note n="a" place="margin">
+                     <hi>Eccle.</hi> 1 1</note>. And againe, <hi>O that man would prouide, What?</hi> prouide (<hi>I</hi> ſay) with Ioſeph, for the barennes to come<note n="b" place="margin">
+                     <hi>Gen.</hi> 41.48.</note>, and for the dayes wherein thou ſhalt ſay. <hi>I haue no pleaſure in them</hi>
+                  <note n="c" place="margin">
+                     <hi>Eccle.</hi> 12.1</note>, following the wiſemans rule, that ſaith: <hi>In all thy works whatſoeuer thou doeſt, remember the ende, and thou ſhalt neuer do amiſſe</hi>
+                  <note n="d" place="margin">
+                     <hi>Sira.</hi> 7.36</note>. Certain<g ref="char:EOLhyphen"/>ly, if thou diddeſt wel conſider
+<pb n="18" facs="tcp:4644:22"/>
+the vncertainetie of thy life<note n="e" place="margin">
+                     <hi>Pſa.</hi> 144.4 <hi>Iſa.</hi> 31.3. <hi>Iſa.</hi> 40.47 1 <hi>Pet.</hi> 1 24 <hi>Iob.</hi> 8.9.</note>, and how farre thou art from faithfull repentance<note n="f" place="margin">
+                     <hi>Roman.</hi> 2 45 2. <hi>Cor.</hi> 4.4 <hi>Act</hi> 11.18</note> &amp; true chriſtianitie<note n="g" place="margin">
+                     <hi>Ioh.</hi> 13.14, 15. <hi>Ephe.</hi> 5, 2. 1, <hi>Ioh</hi> 3 16 1. <hi>Ioh.</hi> 2, 6.</note> indeed, for all thy glorious ſhewe<note n="h" place="margin">
+                     <hi>Mat.</hi> 21.19 <hi>Marc.</hi> 11.12.13.</note>, thou wouldeſt happily endeuour thy ſelfe, to watch in thy ward <note n="i" place="margin">
+                     <hi>Mat.</hi> 24.44</note>, prudentlye prouiding for thy ende &amp; finall departure<note n="k" place="margin">
+                     <hi>Sira.</hi> 14 14. <hi>Iſa.</hi> 47.7.</note>, yea poſſibly forget thy po<g ref="char:cmbAbbrStroke">̄</g>ps, thy pleaſures, thy vanities, thy fleſhly luſts, &amp; filthy deſire<note n="l" place="margin">
+                     <hi>Rom.</hi> 12. <hi>Ro</hi> 13.14. 1. <hi>Pet,</hi> 2.11. <hi>Coloſſ,</hi> 3.2. 1 <hi>Io.</hi> 2.15.</note>, in conſideration of the immi<g ref="char:EOLhyphen"/>nent perrill, and dreadful da<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ger that houereth ouer thy heade<note n="m" place="margin">
+                     <hi>Reuela,</hi> 18.7. 1 <hi>Theſa.</hi> 5.3.</note>, to cut a ſunder thy vi<g ref="char:EOLunhyphen"/>tall breath<note n="n" place="margin">
+                     <hi>Luc,</hi> 12, 19.</note>, and to pay the intereſt of ſinne, with the re<g ref="char:EOLhyphen"/>ward of death<note n="o." place="margin">
+                     <hi>Rom.</hi> 6.20.</note>. Wherefore be wiſe: for he proueth him<g ref="char:EOLhyphen"/>ſelf wiſe in deed, that ſo thin<g ref="char:EOLhyphen"/>keth
+<pb n="19" facs="tcp:4644:22"/>
+of puniſhment afore it commeth, that he may auoyd the danger thereof, whenſoe<g ref="char:EOLhyphen"/>uer it falleth<note n="p" place="margin">
+                     <hi>Eccl.</hi> 11.8 <hi>Eccl,</hi> 12, 1.2 3</note>.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Chap. <hi>4. To remember the ende and to prouide for the ſame.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Herfore, ſaiſt thou, I yeelde, &amp; woulde willingly rely vpon the ſounde aduiſe of the almightie, to the end I might both know, vnderſta<g ref="char:cmbAbbrStroke">̄</g>d, yea, and likewiſe prouide for my departure, if I knew howe to attaine therevnto. Then heare the graue and pithye counſell of the wiſe man that ſaith, <hi>In all thy workes remember the ende. &amp;c</hi>
+                  <note n="q" place="margin">
+                     <hi>Sira.</hi> 7, 36</note>, for the onely re<g ref="char:EOLhyphen"/>membrance of thy ende is a
+<pb n="20" facs="tcp:4644:23" rendition="simple:additions"/>
+bridle<note n="r" place="margin">
+                     <hi>Sira.</hi> 41, 1</note> and a collar<note n="ſ" place="margin">
+                     <hi>Iſa.</hi> 38, 12 2 <hi>Kin</hi> 20 1 2 <hi>Chro.</hi> 32.24.</note>, for the wilde &amp; vntamed fleſh of man as followeth fitly in this latine rithme:
+<q>
+                     <l>Non melius poterit caro luxurioſa domari</l>
+                     <l>Quam hene (qualis erit poſt mortem) premeditari.</l>
+                  </q>
+               </p>
+               <p>Thus engliſhed:
+<q>
+                     <l>No better mean to tame the fleſh<note n="s" place="margin">
+                           <hi>Rom,</hi> 7 18 <hi>Gal.</hi> 5.17.</note>,</l>
+                     <l>that wanton<note n="t" place="margin">2 <hi>Cor.</hi> 12 7.</note> is, and bolde<note n="v" place="margin">
+                           <hi>Gal.</hi> 4.29</note>,</l>
+                     <l>Than wel to weigh what it ſhal be<note n="u" place="margin">
+                           <hi>Io.</hi> 11.39</note>
+                     </l>
+                     <l>once dead, and laid in molde.<note n="x" place="margin">
+                           <hi>Ge.</hi> 3, 29 1 <hi>King.</hi> 21 27 <hi>Ionas</hi> 3.6. <hi>Sira.</hi> 10.9. <hi>Iob.</hi> 34.15 <hi>Heb.</hi> 9.13. <hi>Leu</hi> 16 14</note>
+                     </l>
+                  </q>
+               </p>
+               <p>And if thou haſte ſuch con<g ref="char:EOLhyphen"/>tinual meditations, thou ſhalt be the happieſt amongeſt a thouſand<note n="y" place="margin">
+                     <hi>Sira.</hi> 14.21</note>, yea, all generati<g ref="char:EOLhyphen"/>ons ſhall call thee bleſſed<note n="z" place="margin">
+                     <hi>Luc.</hi> 1.42.</note>. A meditation is a dotation, or endowment of the godly minde<note n="a" place="margin">
+                     <hi>Wiſd.</hi> 5.8 9.10. <hi>Pſal.</hi> 119.9.15.97.98. <hi>Sira.</hi> 14, 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> but the minde is ne<g ref="char:EOLhyphen"/>uer better endowed than whe<g ref="char:cmbAbbrStroke">̄</g> it is furniſhed with the treſure
+<pb n="21" facs="tcp:4644:23"/>
+of prouidence<note n="b" place="margin">
+                     <hi>Prou.</hi> 3 22.23. <hi>Prou.</hi> 6, 6 7 8</note>.</p>
+               <p>We reade that Argus<note n="c" place="margin">Ouid. li. <hi>1</hi> metamor.</note> had his head enuironed with 100. watching eies: ſignifiyng thus much vnto vs, he was euerye way endued with great wiſe<g ref="char:EOLhyphen"/>dome and ſingular diſcretion Therefore, if a paganne and a heathen man (by the poets re<g ref="char:EOLunhyphen"/>port) ſo excelled in the atchie<g ref="char:EOLhyphen"/>uement of wiſdome and pru<g ref="char:EOLhyphen"/>dence: How much the rather ought a Chriſtian man to bee well furniſhed with prouide<g ref="char:cmbAbbrStroke">̄</g>ce and circumſpection<note n="d" place="margin">
+                     <hi>Luc.</hi> 12.35.36, 37.38.</note>.<note n="e" place="margin">
+                     <hi>Sirac.</hi> 7.16, 17. <hi>Pſal.</hi> 42.2 <hi>Phil.</hi> 3.7. <hi>Phil.</hi> 3.8. <hi>Gen.</hi> 47.9. <hi>Pſal.</hi> 39.5 <hi>Gen.</hi> 3.16. <hi>Gen</hi> 3.17. 2. <hi>Tim.</hi> 3.1, <hi>&amp;c</hi> 2. <hi>Cor.</hi> 11.23. <hi>&amp;c.</hi>
+                  </note> Be thou therefore an other Argus, nay more warie then he, more wi<g ref="char:EOLhyphen"/>ly then he, more watchfull &amp; more circumſpect tha<g ref="char:cmbAbbrStroke">̄</g> he, that thou maieſt learne to be wiſe to vnderſtand and finally, to prouide for thy ende and laſt departure.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="22" facs="tcp:4644:24"/>
+               <head>
+                  <hi>Chap. 5. Hovv fearful is the hour of death, and how profi<g ref="char:EOLhyphen"/>table is the</hi> remem<g ref="char:EOLhyphen"/>brance thereof.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Nd if you aske what is that final end that thou ſo carefully arte to conſider? I aun<g ref="char:EOLhyphen"/>ſwere: it is that dreadfull and gaſtly houre<note n="a" place="margin">
+                     <hi>Pſal.</hi> 55.4.5</note>, wherein thy wretched carcaſſe ſheadeth forth his ſeelie and ſorrowfull ſoule with feare and trem<g ref="char:EOLhyphen"/>bling<note n="b" place="margin">
+                     <hi>Pſal.</hi> 35.17. <hi>Pſ.</hi> 18.4 5</note>, Beleue mee (beloued) thou oughteſt rather to re<g ref="char:EOLhyphen"/>gard and eſteeme this gifte of Prouidence againſt that daye vengeance<note n="c" place="margin">
+                     <hi>Pro.</hi> 11 4 <hi>Ezech.</hi> 7.19 <hi>Zeph.</hi> 1, 18 <hi>Sira</hi> 5, 1, 8</note>, than to gaine the ſoueraintie of all the world<note n="d" place="margin">
+                     <hi>Luc.,</hi> 9.25.</note>,
+<pb n="23" facs="tcp:4644:24"/>
+Wherefore I woulde haue thee ſo to knowe and vnder<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>d things preſent, that thou finally be not careleſſe for the things that ſhall followe<note n="e" place="margin">
+                     <hi>Sira,</hi> 14.12. <hi>&amp;c.</hi> 1 <hi>Io</hi> 2, 15. <hi>&amp;c.</hi> 2 <hi>King,</hi> 20 1</note>, but remember the daies of dark<g ref="char:EOLhyphen"/>neſſe:<note n="k" place="margin">
+                     <hi>Rom.</hi> 13, 12.</note> feare the Lorde<note n="g" place="margin">
+                     <hi>Pro,</hi> 3, 7.</note>: co<g ref="char:EOLhyphen"/>uet heauenly things<note n="h" place="margin">2, <hi>Cor,</hi> 5.23, <hi>&amp;c. Coloſſ.</hi> 3.1</note>:<note n="f" place="margin">
+                     <hi>Eccl,</hi> 11 8</note> deſpiſe the world<note n="i" place="margin">2 <hi>Cor,</hi> 5.6 <hi>Rom,</hi> 12:2 <hi>&amp;</hi>
+                  </note> caſt of the workes of darkneſſe<note n="k" place="margin">
+                     <hi>Rom.</hi> 13, 12.</note>: put on the ar<g ref="char:EOLhyphen"/>mour of lighte<note n="l" place="margin">
+                     <hi>Ro,</hi> 13 13</note>, taking no thought to fulfill the luſt of the fleſh<note n="m" place="margin">
+                     <hi>Rom,</hi> 13 14.</note>, but remember thy end and finall diſſolution<note n="n" place="margin">
+                     <hi>Pro.</hi> 3, 7.</note>, when as none of thy friendes nor of thy kinſfolkes ſhall ap<g ref="char:EOLhyphen"/>peare to ſuccour or aſſiſt thee with ſhield and ſpeare<note n="o" place="margin">
+                     <hi>Pſal.</hi> 22.11. <hi>Pſ.</hi> 49.7.8</note>: nay, as the Prophet Ieremie ſaith: <hi>Then ſhall there not be one to com<g ref="char:EOLhyphen"/>fort thee, of all thyne acquain<g ref="char:EOLhyphen"/>tance</hi>
+                  <note n="h" place="margin">
+                     <hi>Lament.</hi> 1, 2</note>, then is there no helpe to be looked for at mans
+<pb n="24" facs="tcp:4644:25"/>
+handes<note n="q" place="margin">
+                     <hi>Ier.</hi> 17.5</note>, thy refuge muſt bee in God only, through the me<g ref="char:EOLhyphen"/>ditation of his Sonne Ieſus Chriſt our Lord<note n="r" place="margin">
+                     <hi>Hoſſ.</hi> 13.4 <hi>Acts.</hi> 4.12 <hi>Epheſ,</hi> 2 5.</note>.</p>
+               <p>Now conſider what ho<g ref="char:EOLhyphen"/>nor<note n="ſ" place="margin">
+                     <hi>Io.</hi> 5.23.</note>, what loue<note n="s" place="margin">
+                     <hi>Deu</hi> 30.16</note>, and what reuerence<note n="t" place="margin">
+                     <hi>Heb.</hi> 12.28.</note>, thou oweſte to him, by whoſe onlye meanes thy ſinnefull ſoule, after the departure, is to enioy eternall ſaluation<note n="v" place="margin">1 <hi>Pet.</hi> 3.10. 1 <hi>Pet.</hi> 3.12</note>, Then I ſay, heare him, obey his voice<note n="u" place="margin">
+                     <hi>Ier.</hi> 26.4 1 <hi>Kin</hi> 9.4, 1 <hi>Ioh.</hi> 4.6.</note>, which is his chiefeſt honor<note n="x" place="margin">1 <hi>Sam.</hi> 15.22. <hi>Eccl.</hi> 4.17.</note>, and ne<g ref="char:EOLhyphen"/>uer let that dreadfull<note n="y" place="margin">
+                     <hi>Mat.</hi> 24.30</note>, and diſmole<note n="z" place="margin">
+                     <hi>Ioel.</hi> 2.2.</note>, houre, ſlippe out of thy minde: but (before thy miſerable ſpirit reſigne ouer his borrowed manſion) be<g ref="char:EOLhyphen"/>thinke with thy ſelfe, what thou art, and whether thou goeſt<note n="a" place="margin">
+                     <hi>Math.</hi> 7.13 <hi>Luc.</hi> 13 24</note>? The remembraunce hereof, wil brede in thy heart ſorowe<note n="b" place="margin">.2. <hi>Cor.</hi> 2.5</note>: ſorowe, remorſe<note n="c" place="margin">2. <hi>Cor.</hi> 7 8. <hi>&amp;c.</hi>
+                  </note>:
+<pb n="25" facs="tcp:4644:25"/>
+remorſe, repentaunce<note n="d" place="margin">2 Cor. 7.10</note>: repen<g ref="char:EOLhyphen"/>taunce, humilitie<note n="e" place="margin">2 <hi>Cor</hi> 7.8 10</note>: humilitie, godlie affection<note n="f" place="margin">
+                     <hi>Pſ.</hi> 18.1.</note>, and loue to Godward, wholly reſting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the ankar of hope<note n="g" place="margin">
+                     <hi>He</hi> 6.9. <hi>Rom.</hi> 5, 4. 1 <hi>Pet,</hi> 5.7,</note>, vnder the protection of his fauourable goodnes<note n="h" place="margin">
+                     <hi>Pſ</hi> 21.1.</note>, and free<note n="i" place="margin">
+                     <hi>Act.</hi> 4.12 <hi>Act</hi> 15.11</note> mercie, through a baſhfull conſidera<g ref="char:EOLhyphen"/>tion of thine owne weakneſſe &amp; miſery<note n="k" place="margin">
+                     <hi>Pſa,</hi> 17.5. <hi>Iob</hi> 10. <hi>&amp;r</hi>
+                  </note>. And here (gentle Reader) aſſure thy ſelfe, that nothing in all the world can enforce<note n="l" place="margin">
+                     <hi>Wiſ.</hi> 5.7 <hi>Wiſ,</hi> 5 8 9 <hi>Sira.</hi> 7, 36.</note> a man ſooner to liue ſoberly, righteouſly, and god<g ref="char:EOLhyphen"/>ly, in this preſent life<note n="m" place="margin">
+                     <hi>Tit</hi> 2, 12</note>, then the due conſideration of his owne infirmities<note n="n" place="margin">
+                     <hi>Ro.</hi> 7.18</note>, the certain knowledge of his mortalitie<note n="o" place="margin">
+                     <hi>Pſa.</hi> 89.49.</note> and the often and continuall remembrance of his death, &amp; diſſolution and laſt gaſpe, whe<g ref="char:cmbAbbrStroke">̄</g> as a man becommeth none<note n="p" place="margin">
+                     <hi>Ro.</hi> 6.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Hebr.</hi> 9.27 2 <hi>Pet,</hi> 1.14 <hi>Sira</hi> 10 12 <hi>Sirach.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4 12 21. <hi>Prou.</hi> 11.4 <hi>Wiſd</hi> 5.15 <hi>Iob</hi> 10, 20. <hi>&amp;c. Pſa,</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9.4. <hi>Eccl.</hi> 7.19.</note>,
+<pb n="26" facs="tcp:4644:26"/>
+for when once he waxeth ſick, and ſtil by ſicknes ſickly gro<g ref="char:EOLhyphen"/>weth<note n="q" place="margin">
+                     <hi>Iam.</hi> 5.14</note>, then doth a wretched man diſpaire<note n="r" place="margin">
+                     <hi>Gen.</hi> 4.13 <hi>Mat.</hi> 27.4</note>, hauing onely his paine &amp; griefe in remem<g ref="char:EOLhyphen"/>brance<note n="ſ" place="margin">
+                     <hi>Iob.</hi> 17.1.</note>. And his guiltie con<g ref="char:EOLhyphen"/>ſcience to accuſe him<note n="s" place="margin">
+                     <hi>Ro.</hi> 2.15</note>, nei<g ref="char:EOLhyphen"/>ther willing nor able to call for mercie<note n="t" place="margin">1. <hi>Cor.</hi> 2.14</note>, his heart doeth quake, his head amazed out of frame, his ſe<g ref="char:cmbAbbrStroke">̄</g>ſes vaniſh quite away, his ſtrength decayes, his carefull breaſt doeth pant, his countenance pale, his fauour bleake, his eares deaf, his noſe both ſniuely and ſharpe, his tongue is furred with filth and fleame, and fayleth quite, his mouth vnſeemly driueling is, his bodie dieth and rottes at length<note n="v" place="margin">
+                     <hi>Eccle.</hi> 12.2 3 4 5 6 7, <hi>&amp;c.</hi>
+                  </note>, his fleſh conſumes, his beautie ſtincks, his ſtately ſhape of late ſo faire, ſo fine, ſo
+<pb n="27" facs="tcp:4644:26"/>
+gallant, &amp; ſo delicate returnes by natures lore to aſhes ſmall, and then in ſteade and place thereof do filthy wormes ſuc<g ref="char:EOLhyphen"/>ceede<note n="u" place="margin">
+                     <hi>Iob</hi> 7.5 10.9 13, 28.14, 10 <hi>&amp;c.</hi>
+                  </note>.</p>
+               <q>
+                  <l>Next after man doe wormes ſuc<g ref="char:EOLhyphen"/>ceede,</l>
+                  <l>then ſtinke in his degree<note n="y" place="margin">
+                        <hi>Eccl.</hi> 19, 17</note>:<note n="x" place="margin">
+                        <hi>Iob.</hi> 7.5 19, 26</note>
+                  </l>
+                  <l>So euerie man to no man muſt</l>
+                  <l>returne<note n="z" place="margin">
+                        <hi>Sira.</hi> 38, 22</note>, by Gods decree<note n="a" place="margin">
+                        <hi>Heb.</hi> 9, 27</note>.</l>
+               </q>
+               <p>Beholde a ſpectacle bothe ſtrange and dreadfull<note n="b" place="margin">
+                     <hi>Sira.</hi> 40.1, 2, 3 4, 5 6, 7, 8, 9</note>, and aſſure thy ſelfe, that there is neither skill, nor meanes of Art, nor any kinde of learning that can be more auailable, to quaile the pride of man<note n="c" place="margin">
+                     <hi>Sir.</hi> 10, 9.14, 12 13, 19, 21 <hi>Wiſd.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5, 8, 9, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, 11 12, 13</note>, co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>uince his malice, confounde his luſt, or abate this worldly pompe, and vain-glorious va<g ref="char:EOLhyphen"/>nitie, than the often remem<g ref="char:EOLhyphen"/>braunce of his diſſolution,
+<pb n="28" facs="tcp:4644:27"/>
+O therefore, <hi>that they were wiſe &amp;c.</hi> for in all the world there is nothing ſo yrkeſome, no<g ref="char:EOLhyphen"/>thing ſo lothſome and ſo vile as the carcas<note n="d" place="margin">
+                     <hi>Iohn.</hi> 11.39 <hi>Iob.</hi> 19.17 <hi>Eſai</hi> 34 3.14.19. <hi>Iere.</hi> 8.2. <hi>Ezech.</hi> 39.16</note> of a deade man whoſe ſent is ſo tedious, that it may not lodge &amp; continue in a houſe 3 daies for ſtink, ſo intolerable but muſt needs be caſt out of doores as dunge<note n="e" place="margin">
+                     <hi>zeph.</hi> 1.17 <hi>Iere.</hi> 22.19</note>, and deepely buried in mould for corrupting<note n="f" place="margin">
+                     <hi>Io.</hi> 11.39.</note> of the aire. Then bluſh for ſhame<note n="g" place="margin">
+                     <hi>Pſal.</hi> 31.19 20</note>, thou proud peacocke that art but wormes meate<note n="h" place="margin">
+                     <hi>Iob.</hi> 7.5.</note>, and ſhortly ſhalt become ſtinking carri<g ref="char:EOLhyphen"/>on<note n="i" place="margin">
+                     <hi>Eſay.</hi> 40.11.47.7. <hi>Ierem.</hi> 13.9. <hi>Wiſedom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 5.13.</note>.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="29" facs="tcp:4644:27"/>
+               <head>Chap. 6. A vievve of mans vani<g ref="char:EOLhyphen"/>tie, and the reme<g ref="char:EOLhyphen"/>die thereof.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ow let verie ſhame it ſelf pro<g ref="char:EOLhyphen"/>cure the proude hautie &amp; vnhap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſinner to bluſhe<note n="a" place="margin">
+                     <hi>Pſ.</hi> 83.18 <hi>Pro.</hi> 16.5.21 29 <hi>Habac.</hi> 2.5</note>. though binded with ambition<note n="b" place="margin">
+                     <hi>Iam.</hi> 3.1.</note>, in<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amed with wrath<note n="c" place="margin">
+                     <hi>Pr.</hi> 26.21</note> polluted with impatience<note n="d" place="margin">1 <hi>Cor.</hi> 10 10</note>, &amp; houen vp with knowledge<note n="e" place="margin">1. <hi>Cor.</hi> 8.1</note>, who liketh better of Ariſtotles philoſo<g ref="char:EOLhyphen"/>phie<note n="f" place="margin">
+                     <hi>Col.</hi> 2.8. 1. <hi>Tim.</hi> 6.20</note>, than of the teſtimonie of all the appoſtles, and of the workes of Plato, than of the word of God<note n="g" place="margin">
+                     <hi>Ier.</hi> 44.5. <hi>Heb.</hi> 12.25. 1. <hi>Cor.</hi> 1.18 22 <hi>Act.</hi> 17.18 1 <hi>Cor.</hi> 1.22 2.13 14 <hi>Act.</hi> 24.1. 1. <hi>Tim.</hi> 6.20</note>, whom no lear<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing edifieth, no knowledge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elighteth, no ſtile fancieth,
+<pb n="30" facs="tcp:4644:28"/>
+otherwiſe tha<g ref="char:cmbAbbrStroke">̄</g> grammatically grounded, logically framed, &amp; rhethoritically painted out in colors<note n="h" place="margin">
+                     <hi>Iob.</hi> 16 20</note>. Thou art very vnwiſe and vtterly deceiued if thou ſeeſt not, that they, that haue pleſure in ſuch things &amp; ther<g ref="char:EOLhyphen"/>in co<g ref="char:cmbAbbrStroke">̄</g>ſume their dayes, co<g ref="char:cmbAbbrStroke">̄</g>ceiue ſin, &amp; at le<g ref="char:cmbAbbrStroke">̄</g>gth hatch their own deſtruction<note n="i" place="margin">
+                     <hi>Iac.</hi> 3.15 1 <hi>Cor.</hi> 1.17 <hi>Rom</hi> 1.22. 1 <hi>Cor.</hi> 2, 6. 1 <hi>Cor.</hi> 1.19 <hi>Rom.</hi> 1, 21 <hi>Iac.</hi> 4, 16. 2 <hi>Pet.</hi> 1.16</note>: for, ſuch as their ſtudie is, ſuch knowledge the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> get<note n="k" place="margin">
+                     <hi>Ecc.</hi> 1.13</note>, in ſteede of fruite they reape leaues<note n="l" place="margin">
+                     <hi>Mat.</hi> 21.19</note>, and winde in ſteede of wiſedom<note n="m" place="margin">
+                     <hi>Eccl</hi> 10.14</note>, for thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words become winde<note n="n" place="margin">
+                     <hi>Iob.</hi> 16.3</note>, they beate the aire with babbling they ſpeake with ful mouthes and vaunt of their vanities<note n="o" place="margin">
+                     <hi>Iam.</hi> 4.16 2 <hi>Pet.</hi> 2.13</note> as the Pſalmiſt ſaith, <hi>They re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> too and fro, &amp; ſtagger like a dru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ken man: and are at their witt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> end</hi>
+                  <note n="p" place="margin">
+                     <hi>Pſa.</hi> 107.27</note>. A drunken ma<g ref="char:cmbAbbrStroke">̄</g> knowet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not what he doth, or whith<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:4644:28"/>
+he goeth, for that he knoweth<note n="q" place="margin">
+                     <hi>Gen.</hi> 19 32 <hi>Prou.</hi> 20.1 <hi>Pro.</hi> 31.45 1 <hi>Sam.</hi> 25.36</note> not himſelfe. So fooliſh bab<g ref="char:EOLhyphen"/>blers by meanes of ſuch ſtudy tyre the<g ref="char:cmbAbbrStroke">̄</g>ſelues<note n="r" place="margin">
+                     <hi>Ecc.</hi> 1, 13 14</note>, in deuouring vp vanities, &amp; gathering of ſe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>ces, &amp; flowers (as they terme the<g ref="char:cmbAbbrStroke">̄</g>) togither, but to what end? They are vtterly ignorant<note n="ſ" place="margin">
+                     <hi>Eccl.</hi> 12.12, 13 <hi>Math.</hi> 15 14 <hi>Luc.</hi> 6.39</note>: neither do they pore wretches regard to what perplexiti they driue their ſoules vnto, there<g ref="char:EOLhyphen"/>by<note n="s" place="margin">1 <hi>Cor.</hi> 8.1</note>, for if they had weyed in equal ballance the ſhortneſſe of their liues<note n="t" place="margin">
+                     <hi>Pſ.</hi> 39.5. <hi>Wiſd.</hi> 5.10 11, 12, 12</note>, the detriment of time euil beſtowed<note n="v" place="margin">
+                     <hi>Epheſ.</hi> 5 16, 15 <hi>Col.</hi> 4.5</note> there<g ref="char:EOLhyphen"/>vpon, and how they are at the dreadful daie of iudgement to yeeld an account, not onely of their dead workes, but alſo of euery idle worde that procee<g ref="char:EOLhyphen"/>deth out of their mouthes<note n="u" place="margin">
+                     <hi>Mat.</hi> 12.36.37</note>: I am ſure they would bee aba<g ref="char:EOLhyphen"/>ſhed foorthwith, and happily
+<pb n="32" facs="tcp:4644:29"/>
+touched with ſom godly mo<g ref="char:EOLhyphen"/>tion<note n="x" place="margin">
+                     <hi>Cor.</hi> 12.6 7 8.9 10.11</note>, to croſſe-ſaile, and bid the vain Sciences of the world adew<note n="y" place="margin">
+                     <hi>Ier</hi> 3.12.</note>, to chaunge the ſtudie of vanitie<note n="z" place="margin">
+                     <hi>Ro.</hi> 2.8.</note>, for the ſtudie of vertue<note n="a" place="margin">
+                     <hi>Ephe.</hi> 4.25</note> &amp; vtterly to remoue from the chaire of folly<note n="b" place="margin">
+                     <hi>Pſa.</hi> 1.1.</note>, to the ſeate of Wiſdome<note n="c" place="margin">
+                     <hi>Ibid.</hi> 2.</note> from the ſchole of curioſitie<note n="d" place="margin">
+                     <hi>Act.</hi> 19.19</note>, to the yoke of humilitie<note n="e" place="margin">
+                     <hi>Mat.</hi> 11.25</note>, from the haunt of fleſhly luſt<note n="f" place="margin">1. <hi>Cor</hi> 6.18</note>, to the high way of chaſtitie<note n="g" place="margin">
+                     <hi>Ibid.</hi> 7.1. <hi>Gal.</hi> 5.23.</note>, from the ſect of fornication<note n="h" place="margin">
+                     <hi>Act.</hi> 15.26</note>, to the rocke of religion<note n="i" place="margin">
+                     <hi>Iam.</hi> 1.27</note>, which is from the houſholde of worldly conuerſation, to the hall of heauenlye diſci<g ref="char:EOLhyphen"/>pline<note n="k" place="margin">
+                     <hi>Ro.</hi> 12.2. <hi>Col.</hi> 3.2. <hi>Pro</hi> 4.13.</note> as the kingly Prophet recordeth ſaying: <hi>Take hold of diſcipline leaſt the Lord be angry and you periſhe out of the waye</hi>
+                  <note n="l" place="margin">
+                     <hi>Pſ.</hi> 2.12. 2. <hi>Cor.</hi> 2.6.</note>. O how hard &amp; how bitter<note n="m" place="margin">
+                     <hi>Sir.</hi> 41.1</note> a ſentence is this to them, that
+<pb n="33" facs="tcp:4644:29"/>
+in time laie not holde vppon true diſcipline<note n="n" place="margin">
+                     <hi>Wiſd.</hi> 7.14 <hi>Pro.</hi> 15.5</note>, for they are ſore threatned to periſh as the Lord likewiſe witneſſeth by Moſes ſaying: <hi>Euery ſoule that humbleth not himſelfe this daye, ſhall periſh from amo<g ref="char:cmbAbbrStroke">̄</g>g the people</hi>
+                  <note n="o" place="margin">
+                     <hi>Leu.</hi> 23.29</note> Theſe words are wel to be no<g ref="char:EOLhyphen"/>ted (<hi>Euerie ſoule</hi> (ſaith he) <hi>that humbleth not himſelfe</hi>) by diſ<g ref="char:EOLhyphen"/>cipline<note n="p" place="margin">
+                     <hi>He.</hi> 10.7 <hi>Luc.</hi> 5.5.</note>, amendment of man<g ref="char:EOLhyphen"/>ners<note n="q" place="margin">
+                     <hi>Ro.</hi> 6.4.</note>, repentance<note n="r" place="margin">
+                     <hi>Mat.</hi> 3.2.</note> and ſor<g ref="char:EOLhyphen"/>row of heart<note n="ſ" place="margin">2. <hi>Cor.</hi> 7.10</note>, with clearing of his conſcience<note n="s" place="margin">
+                     <hi>Heb.</hi> 10.22 1. <hi>Pet.</hi> 3.16 <hi>Io.</hi> 1.20.</note>, addinge, <hi>This day,</hi> that is, euen at this preſent inſtance of time: for hee that in this life taketh no time of repentance, after this life ſhall find no place of par<g ref="char:EOLhyphen"/>don<note n="t" place="margin">
+                     <hi>Luc.</hi> 16.25</note>. Wherefore quake thou ſinner, thou proud Peacocke, thou ſtinking carion, on who<g ref="char:cmbAbbrStroke">̄</g> yet aliue, the vile and loath<g ref="char:EOLhyphen"/>ſome
+<pb n="34" facs="tcp:4644:30"/>
+wormes that proceede out of thy corruptible carcaſe doe daily gnawe and feede<note n="v" place="margin">
+                     <hi>Act.</hi> 12 22 23, 24</note>, abhorre thy hautineſſe<note n="u" place="margin">
+                     <hi>Pſa.</hi> 75.4 <hi>Rom.</hi> 11.18 <hi>Iam.</hi> 4.16.</note>, a<g ref="char:EOLhyphen"/>uoide thy vanities<note n="x" place="margin">
+                     <hi>Eccl.</hi> 1.1. 1. <hi>Sam.</hi> 12.21 1 <hi>King.</hi> 16.26</note>, leaue off thy luſtes<note n="y" place="margin">
+                     <hi>Ro.</hi> 13.14</note>, and apprehende diſcipline<note n="z" place="margin">1 <hi>Tim.</hi> 4.13</note>, leaſt thou alſo come to naught, and periſhe out of the waie<note n="a" place="margin">
+                     <hi>Iob.</hi> 20.6 <hi>Nu.</hi> 15.28</note>. Beholde in this Glaſſe what thou art<note n="b" place="margin">
+                     <hi>Pſa.</hi> 103.14</note>, &amp; what ſhall become of thee<note n="c" place="margin">
+                     <hi>Pſ.</hi> 89.49</note>, whoſe conception is menſtru<g ref="char:EOLunhyphen"/>ous and filthie ſuperfluitie of nature<note n="d" place="margin">
+                     <hi>Wiſd.</hi> 7.2</note>, that is, whoſe begin<g ref="char:EOLhyphen"/>ning is dirt<note n="e" place="margin">
+                     <hi>Iob.</hi> 20.7</note>, &amp; ende rotten<g ref="char:EOLhyphen"/>neſſe<note n="f" place="margin">
+                     <hi>Iob.</hi> 17.1.14</note>, <hi>O that thou wouldeſt be wiſe, &amp;c.</hi> Weigh wretch with thy ſelfe thine owne eſtate<note n="g" place="margin">
+                     <hi>Ro.</hi> 7.24. <hi>Iob.</hi> 14.1.7, 1.</note>: cauſes thou haſt of infinit ſor<g ref="char:EOLhyphen"/>rowes &amp; griefs intollerable<note n="h" place="margin">
+                     <hi>Luc.</hi> 13, 28 <hi>Reu.</hi> 14.10</note> yet wilt thou not lament<note n="i" place="margin">
+                     <hi>Iſa.</hi> 22.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2, <hi>&amp;c.</hi>
+                  </note>, but ſtill reioyceſt in thine ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:4644:30"/>
+deſtruction<note n="k" place="margin">
+                     <hi>Iſa.</hi> 22.13</note>, co<g ref="char:cmbAbbrStroke">̄</g>mitting wic<g ref="char:EOLhyphen"/>kedneſſe euen with greedi<g ref="char:EOLhyphen"/>neſſe<note n="l" place="margin">
+                     <hi>Epheſ.</hi> 4.19</note>, curious of other mens liues, but carleſſe of thine owne<note n="m" place="margin">
+                     <hi>Luc.</hi> 21.34</note>, yet couetous &amp; gree<g ref="char:EOLhyphen"/>dye of the worlde, that careth not for thee<note n="n" place="margin">
+                     <hi>Ier.</hi> 6.13. 1. <hi>Tim.</hi> 6.10 <hi>Io.</hi> 16.33. <hi>Gal.</hi> 6.14.</note>. Then learne to be wiſe, &amp; care not for it: but inquire for thy country where thy happineſſe conſiſteth<note n="o" place="margin">
+                     <hi>Colo.</hi> 3.2. <hi>Heb.</hi> 13.14</note>.</p>
+               <q>
+                  <l>What others do</l>
+                  <l>Looke not vnto</l>
+                  <l>Thy ſelfe do not forget,</l>
+                  <l>Let world be</l>
+                  <l>More vile to thee</l>
+                  <l>Than thou art vnto it<note n="p" place="margin">
+                        <hi>Io.</hi> 14.17. 1. <hi>Io.</hi> 2.15.</note>.</l>
+               </q>
+               <p>Wherefore conſider wel the wretched calamitie of thine own miſerable eſtate, &amp; grone with the kingly Prophet Da<g ref="char:EOLhyphen"/>uid, ſaying: <hi>Behold, I wil confeſſe my wickedneſſe, and be ſorie for my ſinnes</hi>
+                  <note n="q" place="margin">
+                     <hi>Pſa.</hi> 38.17 18</note>: And againe, <hi>I am ſet
+<pb n="36" facs="tcp:4644:31"/>
+in the plague, and my wickedneſſe euer in my ſighte</hi>
+                  <note n="r" place="margin">
+                     <hi>Pſ.</hi> 51.3. <hi>Pſ.</hi> 38.4.5.</note>, Crie oute with the Apoſtle, and ſaie: <hi>O wretched man that I am, who ſhal deliuer mee from the bodie of this death</hi>
+                  <note n="ſ" place="margin">
+                     <hi>Ro</hi> 7.24.</note>, This ſame ſentence of the holy Apoſtle craueth a wiſe and a circumſpecte rea<g ref="char:EOLhyphen"/>der<note n="s" place="margin">
+                     <hi>Wiſ.</hi> 7.23</note>: for as yet he was in the fleſh when he termed his body deade: for as much as hee that is wiſe, vieweth his death preſent, and nowe hee accompteth himſelfe as deade becauſe hee knoweth, that he muſt needes die.<note n="t" place="margin">
+                     <hi>Mat.</hi> 16.24 2. <hi>Cor.</hi> 4 10 1. <hi>Pet.</hi> 4, 2. <hi>Wiſd.</hi> 5.13 2. <hi>Sam.</hi> 14.14. <hi>Heb.</hi> 9.27.</note>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>Chap. 7. The miſerable eſtate of a damned ſoule.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Onſider<note n="a" place="margin">
+                     <hi>Luc.</hi> 16.22</note> then that dreadfull and ter<g ref="char:EOLhyphen"/>rible houre where<g ref="char:EOLhyphen"/>of we haue hereto<g ref="char:EOLhyphen"/>fore
+<pb n="37" facs="tcp:4644:31"/>
+mentioned, when thy ſin<g ref="char:EOLhyphen"/>full ſoule, O ſinner taketh his flight and laſt farewell out of this worlde<note n="b" place="margin">
+                     <hi>Luc.</hi> 12.20 <hi>Iſai.</hi> 47.7.</note>: how readie ap<g ref="char:EOLhyphen"/>peare thoſe wicked miniſters of Sathan<note n="c" place="margin">
+                     <hi>Reu.</hi> 12.9</note>, thoſe curſed cai<g ref="char:EOLhyphen"/>tifs<note n="d" place="margin">
+                     <hi>Ge.</hi> 3.14.</note>, thoſe vglie monſters<note n="e" place="margin">
+                     <hi>Iſa.</hi> 27.29. <hi>Iob.</hi> 40.20 <hi>Re.</hi> 12.3.4</note>, thoſe damned ſpirites<note n="f" place="margin">
+                     <hi>Mat.</hi> 25.41 <hi>Luc.</hi> 13.27</note> thoſe houling helhounds<note n="g" place="margin">
+                     <hi>Pſal.</hi> 22.16 <hi>Reu.</hi> 22.15</note>, and roa<g ref="char:EOLhyphen"/>ring lions<note n="h" place="margin">1 <hi>Pet.</hi> 5.8 <hi>Pſa.</hi> 35.17</note>, prepared for their pray, that is, to deuoure thy wretched, miſerable, and ſin<g ref="char:EOLhyphen"/>full ſoule<note n="i" place="margin">
+                     <hi>Reu.</hi> 12.4 1 <hi>Pet.</hi> 5.8.</note>. Then then. I ſaie, in ſight appeare moſte grieſly viſions<note n="k" place="margin">
+                     <hi>Iſa.</hi> 13.9 <hi>Iſa.</hi> 66.24.</note>, moſt horrible tor<g ref="char:EOLhyphen"/>ments<note n="l" place="margin">
+                     <hi>Reu.</hi> 18.7</note>, gaſtly confuſions<note n="m" place="margin">
+                     <hi>Pſa.</hi> 132.19</note>, irkeſome and fearefull darke<g ref="char:EOLhyphen"/>neſſe<note n="n" place="margin">
+                     <hi>Iob.</hi> 15.22</note>, a heape of vnſpeaka<g ref="char:EOLhyphen"/>ble miſeries<note n="o" place="margin">
+                     <hi>Pſa.</hi> 104.11.</note>, a troubleſome turmoile<note n="p" place="margin">
+                     <hi>Prouerbs</hi> 1.27.</note>, chilling feare<note n="q" place="margin">
+                     <hi>Ieremie</hi> 17.18.</note>, terror<note n="r" place="margin">
+                     <hi>Iob.</hi> 15.21.</note>, anguiſhe<note n="ſ" place="margin">
+                     <hi>Rom.</hi> 2, 9.</note>, quaking,
+<pb n="38" facs="tcp:4644:32"/>
+ſorrowe<note n="s" place="margin">1 <hi>The,</hi> 5.3</note>, ſighes<note n="t" place="margin">
+                     <hi>Iſa.</hi> 63, 6,</note>, grepinge griefes<note n="v" place="margin">
+                     <hi>Re.</hi> 18 18</note>, and gnawing of con<g ref="char:EOLhyphen"/>ſcience<note n="u" place="margin">
+                     <hi>Ro.</hi> 2.15.</note>, horrible ſighes<note n="x" place="margin">
+                     <hi>Heb.</hi> 10 27</note>, &amp; a fearefull manſion<note n="y" place="margin">
+                     <hi>Pſa</hi> 21.9 <hi>Iſa.</hi> 5.14.</note>, a place of weeping, wailing<g ref="char:punc">▪</g> and gna<g ref="char:EOLhyphen"/>ſhing of teeth<note n="z" place="margin">
+                     <hi>Mat</hi> 24.51,</note> where worms do ſtinge<note n="a" place="margin">
+                     <hi>Marc.</hi> 9.44.46 48.</note>, where goeſts doe groane for griefe<note n="b" place="margin">
+                     <hi>Iſ</hi> 65.14</note>, and howe<g ref="char:EOLhyphen"/>lings heard<note n="c" place="margin">
+                     <hi>Iſa.</hi> 51, 8 <hi>Iſa</hi> 16.7.</note>, with voices loud that ſay. Wo, wo, to vs we A<g ref="char:EOLhyphen"/>dams<note n="d" place="margin">
+                     <hi>Iſa</hi> 3, 10. <hi>Reu</hi> 18 10 16, 19.</note> broode. Nowe when as thy wretched, nay moſt mi<g ref="char:EOLhyphen"/>ſerable and vnhappy ſoule<note n="e" place="margin">
+                     <hi>Ro</hi> 2, 9, <hi>Iſa.</hi> 47, 11 <hi>Pſ.</hi> 140 11</note>, ſhal heare and ſe, theſe things ſo ſtrange<note n="f" place="margin">
+                     <hi>Lament</hi> 4 12 <hi>Pſal.</hi> 11.7</note>. ſo horrible and ſo gaſtlye<note n="g" place="margin">
+                     <hi>Iſai</hi> 13.9.</note>, yea a thouſande times more lamentable and wofull than any tongue can tell<note n="h" place="margin">
+                     <hi>Reu.</hi> 14.11. <hi>Zach.</hi> 14.12</note>, heart can conceiue<note n="i" place="margin">
+                     <hi>Reu</hi> 21.8.</note>, or penne can painte it out<note n="k" place="margin">1 <hi>Cor.</hi> 2.9. <hi>Iſa.</hi> 64.4.</note>, what and how great horrour,
+<pb n="39" facs="tcp:4644:32"/>
+and amazednes ſhall inuiron, compaſſe, and altogither poſ<g ref="char:EOLhyphen"/>ſeſſe the ſame: it can by no meanes be worthely expreſ<g ref="char:EOLhyphen"/>ſed<note n="l" place="margin">
+                     <hi>Pſ.</hi> 18.4.5. <hi>Pſ.</hi> 22.14.15.16. <hi>Pſal.</hi> 55.4 <hi>Iob.</hi> 6.3.4. <hi>Ma.</hi> 26.38 27.46.</note>. Then (I ſay) what pro<g ref="char:EOLhyphen"/>fiteth thee thy vau<g ref="char:cmbAbbrStroke">̄</g>t of skill<note n="m" place="margin">
+                     <hi>Wiſd.</hi> 5.6.7 8.9 10.11 12.13 14.15</note>? thy pompe? thy vanitie? thy magnificence? thy worldlye wealth? promotions and dig<g ref="char:EOLhyphen"/>nities<note n="n" place="margin">
+                     <hi>Iob.</hi> 8 9. <hi>Pſa.</hi> 143.4 <hi>Pro.</hi> 12 5 11.7 <hi>Iam.</hi> 1.10.</note>? or what auaileth thy luſt? thy fare ſo daintie? thy drinke ſo pleaſant? thy gar<g ref="char:EOLhyphen"/>ments ſo gay? thy pantofles ſo high? thy hiew ſo freſh? thy gorge ſo ful? thy ſurfeitinges? thy drunkenneſſe<note n="o" place="margin">
+                     <hi>Luc</hi> 16.15.19, 20.21.22.23.25. <hi>Luc.</hi> 12.16 17.18 19.20 21.</note> thy houſes braue? thy lordſhips wide, and wealth ſo much<note n="p" place="margin">
+                     <hi>Eccle.</hi> 2.1.2.3, 4, 5, 6.7, 8, 9, 10, 11.</note>? Can any of theſe, or all the ſame redeem<note n="q" place="margin">
+                     <hi>Pſa.</hi> 49.6, 7, 8, 6, 10, 11.</note>, thy ſeelie ſoule (O man) from the gaping iawes of that infer<g ref="char:EOLhyphen"/>nall
+<pb n="40" facs="tcp:4644:33"/>
+monſter<note n="r" place="margin">
+                     <hi>Pſ.</hi> 5.14.</note>, or from the griping claws of that old dra<g ref="char:EOLhyphen"/>gon<note n="ſ" place="margin">
+                     <hi>Pſa.</hi> 104.26 <hi>Pſa.</hi> 57.4.</note>, the olde enimie<note n="s" place="margin">
+                     <hi>Mat.</hi> 13.39</note>, of mankind. Thou therfore that walloweſt in ſinne,<note n="t" place="margin">
+                     <hi>Ephe.</hi> 4.19 2. <hi>Pe.</hi> 2.22</note>, and arte druncke with too much loue of the worlde<note n="v" place="margin">
+                     <hi>Mat.</hi> 6.24 <hi>Luc.</hi> 16.13</note>, that regardeſt dame daliance<note n="u" place="margin">
+                     <hi>Ro.</hi> 3 13</note>, more than thy darelinge<note n="x" place="margin">
+                     <hi>Pſ.</hi> 35.17</note>, thy goodes<note n="y" place="margin">
+                     <hi>Mat.</hi> 19.22</note> rather then godlineſſe<note n="z" place="margin">
+                     <hi>Mat.</hi> 19.23</note>, the rearing of thy cattle<note n="a" place="margin">
+                     <hi>Sir.</hi> 7.22. <hi>Deu.</hi> 23.4.</note>, rather than the reading of the Scrip<g ref="char:EOLhyphen"/>tures<note n="b" place="margin">
+                     <hi>Acts.</hi> 17.11 1. <hi>Tim.</hi> 4.13</note>, beholde this <hi>Glaſſe of vaine-glorye<g ref="char:punc">▪</g>
+                  </hi> that herein thou maieſt learne to know thy ſelf to vnderſtand aright and in al thy workes to remember thy end<note n="c" place="margin">1. <hi>Pet.</hi> 9.10 <hi>Iſa.</hi> 47 7. <hi>Wiſd.</hi> 7.36</note>: viewe hereby thy ſelfe a perfect patterne of al imper<g ref="char:EOLhyphen"/>fections<note n="d" place="margin">
+                     <hi>Ro.</hi> 2.19. <hi>&amp;c.</hi>
+                  </note>, weigh what thou arte<note n="e" place="margin">
+                     <hi>Pſ.</hi> 22.6.</note>, whence thou cameſt<note n="f" place="margin">
+                     <hi>Ge.</hi> 3.19.</note> whether thou wilt<note n="g" place="margin">
+                     <hi>Pro.</hi> 5.14.</note>, What
+<pb n="41" facs="tcp:4644:33"/>
+waie ſo dangerous? what paſ<g ref="char:EOLhyphen"/>ſage ſo perrilous? what clou<g ref="char:EOLhyphen"/>ches ſo horrible thy ſimple, nay ſinfull ſoule, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to paſſe by<note n="h" place="margin">
+                     <hi>Iob.</hi> 18.14 <hi>Pſ.</hi> 49.14. <hi>Pſa.</hi> 63.9.10 <hi>Iſa.</hi> 24.18.</note>, O fooliſh<note n="i" place="margin">
+                     <hi>Gal.</hi> 3.1.</note> ſinner, who hath be witched thee, that ei<g ref="char:EOLhyphen"/>ther canſt not, or wilte not thinke and conſider hereof<note n="k" place="margin">
+                     <hi>Deu.</hi> 32.29</note>. Therefore pride prickes thee forwarde<note n="l" place="margin">
+                     <hi>Hab.</hi> 2.5.</note>, rage rauiſheth thee<note n="m" place="margin">
+                     <hi>Pro.</hi> 26.12. <hi>&amp;c.</hi>
+                  </note>, mallice moleſts<note n="n" place="margin">
+                     <hi>Ephe.</hi> 4.31</note>, en<g ref="char:EOLhyphen"/>uie woundeth<note n="o" place="margin">
+                     <hi>Iob.</hi> 5.2.</note>, ſluggiſhneſſe ſlaieth thee,<note n="p" place="margin">
+                     <hi>Pro.</hi> 21.25</note> &amp; couetouſneſſe at length catcheth thee ſlilie in the ſnare of that ſuttle ſer<g ref="char:EOLhyphen"/>pent<note n="q" place="margin">
+                     <hi>Tim.</hi> 6.9.10</note>, which thou canſt not eſchew<note n="r" place="margin">
+                     <hi>Iam.</hi> 5.3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>. Thou doſt not fore<g ref="char:EOLhyphen"/>ſee the iminent daungers that hang ouer thy head, and are readie prepared for thee a<g ref="char:EOLhyphen"/>gainſt the day of vengeance<note n="ſ" place="margin">1. <hi>Pet.</hi> 4.7 1 <hi>The.</hi> 5.3 <hi>Rom.</hi> 2.5. <hi>Iſa.</hi> 47.11.</note>, but art become ſlouthfull<note n="s" place="margin">
+                     <hi>Heb.</hi> 12.12.</note> &amp;
+<pb n="42" facs="tcp:4644:34"/>
+diſobedient<note n="t" place="margin">
+                     <hi>Hebr.</hi> 4.1:</note>, outragious<note n="v" place="margin">
+                     <hi>Pro.</hi> 6.13.</note>, and lazye to all good works<note n="u" place="margin">Pr. 1, 24. <hi>Pro.</hi> 24 30</note> which thou performeſt as negligently<note n="x" place="margin">
+                     <hi>Mat.</hi> 26.40.</note>. And why: Be<g ref="char:EOLhyphen"/>cauſe thou haſt no minde of that that followeth<note n="y" place="margin">
+                     <hi>Iſa</hi> 47.7</note>, nor ca<g ref="char:EOLhyphen"/>reſt for that that commeth af<g ref="char:EOLhyphen"/>ter<note n="z" place="margin">
+                     <hi>Reu,</hi> 2.5.</note>. If that venemous ſer<g ref="char:EOLhyphen"/>pent that old dragon the di<g ref="char:EOLhyphen"/>uell and Sathanas<note n="a" place="margin">
+                     <hi>Reu.</hi> 14.10. <hi>Reu.</hi> 12.9.</note> preſumed to aſſault<note n="b" place="margin">
+                     <hi>Matth.</hi> 4 1</note>, and tempt our Sa<g ref="char:EOLhyphen"/>uiour<note n="c" place="margin">
+                     <hi>Matth.</hi> 1.21.</note> God<note n="d" place="margin">
+                     <hi>Io.</hi> 1.1.</note> and man<note n="e" place="margin">
+                     <hi>Ro.</hi> 1.3. <hi>Ioh.</hi> 1 14.</note>, that pure and immaculate<note n="f" place="margin">1 <hi>Pet.</hi> 9.19. <hi>Io.</hi> 1 29.</note>, lambe of God<note n="g" place="margin">
+                     <hi>Pſal.</hi> 24.10</note>, and King of glory, oughteſt thou not that art but fleſh and bloud<note n="h" place="margin">
+                     <hi>Mat.</hi> 16.17. <hi>Cal.</hi> 1.16. 1 <hi>Cor.</hi> 15.50.</note>, ſin<g ref="char:EOLhyphen"/>full<note n="i" place="margin">
+                     <hi>Rom,</hi> 7.14,</note>, and weake<note n="k" place="margin">
+                     <hi>Mat.</hi> 26.41.</note>, with feare and trembling<note n="l" place="margin">
+                     <hi>Pſ.</hi> 76.8</note>, to conſider how horribly he both dare<note n="m" place="margin">
+                     <hi>Ephe.</hi> 2.2</note> &amp; wil<note n="n" place="margin">1 <hi>Timo.</hi> 3.16.</note> aſſault thy ſoule that is altogither infected, ſcar<g ref="char:EOLhyphen"/>lat
+<pb n="43" facs="tcp:4644:34"/>
+red<note n="o" place="margin">
+                     <hi>Rom.</hi> 7.17</note>, with ſin and iniqui<g ref="char:EOLhyphen"/>tie vaſſall and bond<hi rend="sup">h</hi> to him, euen that forger of deceite<note n="q" place="margin">2 <hi>Cor.</hi> 11.3.</note>,<note n="p" place="margin">
+                     <hi>Iſai.</hi> 1.18. 2 <hi>Tim</hi> 2.26.</note> woorker of iniquitie<note n="r" place="margin">2 <hi>Theſ.</hi> 2.9.</note>, and deadly enimie of mans ſalua<g ref="char:EOLhyphen"/>tion<note n="ſ" place="margin">
+                     <hi>Mat.</hi> 13.25</note>. Howe canſt thou abide the gaſtlie ſight of that canke<g ref="char:EOLhyphen"/>res countenance<note n="s" place="margin">
+                     <hi>Iob.</hi> 41.9 10. 11 12. <hi>Iſa.</hi> 27 1. <hi>Reu.</hi> 12.3.</note>, the ſtin<g ref="char:EOLhyphen"/>king ſcente of his belching breath, and liering lookes, fowle flaming foorth with fire and brimſtone. Aſſure thy ſelfe, that the only feare<note n="t" place="margin">
+                     <hi>Pſa.</hi> 55.56 <hi>Ier.</hi> 17.18. <hi>Heb</hi> 1.27. <hi>Iſa,</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9. <hi>Iſa.</hi> 5, 14. <hi>Pſal.</hi> 11, 7.</note> of that helliſh monſter<note n="u" place="margin">
+                     <hi>Reu</hi> 12 3 <hi>Iob.</hi> 41.10 <hi>&amp;c Iſa.</hi> 5, 14<g ref="char:punc">▪</g> 
+                     <hi>Reu</hi> 20.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> excee<g ref="char:EOLhyphen"/>deth all kind of torments that may be deuiſd in all the world wherevpon the Prophet ſu<g ref="char:EOLhyphen"/>priſed with exceeding feare &amp; trembling, poureth foorth his earneſt praiers to the almigh<g ref="char:EOLhyphen"/>tie to be deliuered therefrom ſaying: <hi>Heare my voice, O God, in my prayer, preſerue my ſoule
+<pb n="44" facs="tcp:4644:35"/>
+from the feare of the enimie</hi>
+                  <note n="u" place="margin">
+                     <hi>Pſal.</hi> 64.1</note>: he ſaith not, from the power, but from the feare, and why? To ſhew how great<note n="x" place="margin">
+                     <hi>Pſal.</hi> 22.12 13 14 15 16. <hi>Pſa.</hi> 133.4 <hi>Pſal.</hi> 22.20 21</note>, howe feare<g ref="char:EOLhyphen"/>ful, &amp; how intollerable is the only thought and feare of the enimie. Alas (beloued) if ſuch, and ſo great be the feare and trembling of the ſinfull ſoule<note n="y" place="margin">
+                     <hi>Iſay.</hi> 1.5.6</note>, and guiltie conſci<g ref="char:EOLhyphen"/>ence<note n="z" place="margin">
+                     <hi>Iſa.</hi> 66.24 <hi>Hebr.</hi> 10.27 <hi>Rom.</hi> 2.15.</note>, with imagination and viewe of Sathan, what horror, what paine, what griefe<note n="a" place="margin">
+                     <hi>Iſa.</hi> 3.10. <hi>Iſa.</hi> 65.14.</note> what confuſion<note n="b" place="margin">
+                     <hi>Pſa.</hi> 132.19.</note> inſueth his conti<g ref="char:EOLhyphen"/>nuall company<note n="c" place="margin">
+                     <hi>Reuel.</hi> 14.11.</note>, and felow<g ref="char:EOLhyphen"/>ſhip<note n="d" place="margin">
+                     <hi>Math,</hi> 25.14.</note>.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="45" facs="tcp:4644:35"/>
+               <head>
+                  <hi>Chap. 8. The foliſhnes of man that regardeth not the iudgementes of God</hi> againſt ſinners,</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Owe fonde and fooliſh<note n="a" place="margin">
+                     <hi>Pſa.</hi> 14.1 <hi>Pſa.</hi> 92.6. <hi>Pſa.</hi> 94.8.</note> are the hei<g ref="char:EOLhyphen"/>res of Adam<note n="b" place="margin">1. <hi>Cor.</hi> 15 22</note> vaine<note n="c" place="margin">
+                     <hi>Pſa.</hi> 39.8</note> are the children of men<note n="d" place="margin">
+                     <hi>Pſ.</hi> 62.9</note>, and liars<note n="e" place="margin">
+                     <hi>Pſ.</hi> 11.7</note>, <hi>He that lo<g ref="char:EOLhyphen"/>ueth wickedneſſe</hi> (ſaith the Pro<g ref="char:EOLhyphen"/>phet) <hi>hateth his own ſoule,</hi> wher<g ref="char:EOLhyphen"/>vnto the wiſeman agreeth ſay<g ref="char:EOLhyphen"/>ing: <hi>The vngodly and his vngod<g ref="char:EOLhyphen"/>lineſſe, are both alike hatefull vn<g ref="char:EOLhyphen"/>to God</hi>
+                  <note n="f" place="margin">
+                     <hi>Wiſd.</hi> 14.9</note>, and likewiſe to good men, as Dauid ſayth: <hi>Do I not hate them that hate thee, yea I hate them with a perfect hatred, as though they were mine enimies,</hi>
+                  <note n="g" place="margin">
+                     <hi>Pſa.</hi> 139 21</note>,
+<pb n="46" facs="tcp:4644:36"/>
+And againe: The ſpirite of God painteth out the indig<g ref="char:EOLhyphen"/>nation of almightie God a<g ref="char:EOLhyphen"/>gainſt ſinners, ſaying: <hi>The higheſt hateth ſinners, and ſhall rewarde vengeaunce vnto the vngodly</hi>
+                  <note n="h" place="margin">
+                     <hi>Eccl.</hi> 12 7 <hi>Iſa</hi> 47, 11.</note>: Why then doeſt not thou beholde and ſee ſo horrible ſo hainous, and ſo extreame a puniſhment<note n="i" place="margin">
+                     <hi>Hoſ.</hi> 13, 8 <hi>Iſai.</hi> 2, 22.</note>? Why abateſt thou not thy Pride, why quencheſt thou not thy Couetouſneſſe<note n="k" place="margin">
+                     <hi>Pro.</hi> 23.4 <hi>Luc.</hi> 12, 15 <hi>Heb.</hi> 13.5.</note>? Why leaueſt thou not thy luſt<note n="l" place="margin">1 <hi>Cor.</hi> 10.6</note>, and amend thy man<g ref="char:EOLhyphen"/>ners<note n="m" place="margin">
+                     <hi>Iſa.</hi> 31.6 <hi>Hoſ.</hi> 14.2,</note>? Why obeyeſt thou not the wholeſome precepte and commaundement of thy God<note n="n" place="margin">1. <hi>Ioh.</hi> 2.3 <hi>Iohn.</hi> 4.6<g ref="char:punc">▪</g> 1 <hi>Kings.</hi> 9.4.5</note>? why arte not thou wiſe<note n="o" place="margin">
+                     <hi>Rom,</hi> 16.19</note>? why vnderſtandeſt thou not<note n="p" place="margin">
+                     <hi>Hoſ.</hi> 14.10.</note>? why doeſt not<note n="q" place="margin">
+                     <hi>Iam.</hi> 4.13 14 <hi>Sira,</hi> 9, 12. 1 <hi>Pet.</hi> 4.5.</note> thou prouide for thy depar<g ref="char:EOLhyphen"/>ture<hi rend="sup">r</hi>? Therefore almigh<g ref="char:EOLhyphen"/>tie
+<pb n="47" facs="tcp:4644:36"/>
+God ſo terribly threate<g ref="char:EOLhyphen"/>neth and menaceth thee<note n="s" place="margin">
+                     <hi>Reue</hi> 14.10</note>, for thy ſinnes and iniqui<g ref="char:EOLhyphen"/>tie<note n="s" place="margin">
+                     <hi>Reu.</hi> 12.8 2 <hi>Theſſ.</hi> 1.6, 8.</note>, ſaying: <hi>I will alſo laugh at your deſtruction, and mocke when the thing that you feare ſhall come vppon you, euen when the thing that you be a<g ref="char:EOLhyphen"/>fraide of falleth in ſodainelye like a ſtorme, and your miſery like a tempeſt,</hi>
+                  <note n="t" place="margin">
+                     <hi>Prou.</hi> 1, 26. <hi>Prou.</hi> 10.25.</note> 
+                  <hi>yea when trouble and heauineſſe commeth vppon youi</hi>. O howe fearefull is this ſe<g ref="char:EOLhyphen"/>uere threatening of the Al<g ref="char:EOLhyphen"/>mightye<hi rend="sup">v</hi>
+                  <note n="u" place="margin">1 <hi>Theſ.</hi> 5.3. <hi>Iſai.</hi> 47.11</note>. O that the rea<g ref="char:EOLhyphen"/>der here woulde well aduiſe himſelfe<hi rend="sup">o</hi> be wiſe indeede, and in his heart ponder tho<g ref="char:EOLhyphen"/>rowly<note n="x" place="margin">
+                     <hi>Pro.</hi> 19.20. <hi>Pro.</hi> 27.9. <hi>Pro.</hi> 12 15</note>, howe hainous, and intollerable this iudgement and condemnation is<note n="y" place="margin">
+                     <hi>Iob.</hi> 28, 28. <hi>Coll.</hi> 1, 28. <hi>Pſal.</hi> 130 3</note>. And if hee well regarde the ſame, he woulde no doubt take bet<g ref="char:EOLhyphen"/>ter
+<pb n="48" facs="tcp:4644:37"/>
+heede vnto his waies and ſteps<note n="z" place="margin">
+                     <hi>Epheſ.</hi> 5.15. <hi>Colo.</hi> 4.5.</note>. But if perhaps thou ſaieſt, that gibing, laughing, &amp; mocking doeth not well be<g ref="char:EOLhyphen"/>ſeeme<note n="a" place="margin">
+                     <hi>Exo.</hi> 15.12. <hi>Iſa.</hi> 40.22</note> the almightie, neither will his moſt reuerent<note n="b" place="margin">
+                     <hi>Pſal.</hi> 89.8.</note>, ho<g ref="char:EOLhyphen"/>lie<note n="c" place="margin">
+                     <hi>Leui.</hi> 11.44 <hi>Pſal.</hi> 145.18</note>, and perfect<note n="d" place="margin">
+                     <hi>Math.</hi> 5.48</note> nature<note n="e" place="margin">2 <hi>Pet.</hi> 1.4</note> admit any ſuch imperfections and ironicall paſsions of the minde<note n="f" place="margin">
+                     <hi>Pſal.</hi> 102.28 <hi>Malac.</hi> 3.6 <hi>Num.</hi> 23.19</note>. How then is it that God ſpeaketh vnto ſinners af<g ref="char:EOLhyphen"/>ter this ſort, <hi>I will laugh at your deſtruction</hi>
+                  <note n="g" place="margin">
+                     <hi>Prou.</hi> 1.26</note>. Conſider wel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the demaund, and marke wel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the true anſwere hereof, <hi>I wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> laugh at your destruction,</hi> that is, whe<g ref="char:cmbAbbrStroke">̄</g> your end that you de<g ref="char:EOLhyphen"/>ſerued commeth vppon you, I will iudge you worthie to be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laughed at to ſcorne<note n="h" place="margin">
+                     <hi>Luc.</hi> 16.25</note>. <hi>An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> when ſodaine deſtruction commet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vpon you I wil mock,</hi> that is, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bitterneſſe<note n="i" place="margin">
+                     <hi>Sira.</hi> 41.1</note> of euerlaſting
+<pb n="49" facs="tcp:4644:37"/>
+death ſhall nippe you. I will condemne you as worthie e<g ref="char:EOLhyphen"/>uerlaſtingly to bee mocked<note n="k" place="margin">
+                     <hi>Luc.</hi> 12.20.16.25 <hi>Pro.</hi> 11.2. <hi>Pſ.</hi> 104 26</note>. Then marke well thy iudge<g ref="char:EOLhyphen"/>ment<note n="l" place="margin">
+                     <hi>Sira.</hi> 22. <hi>Heb.</hi> 9.27.</note>, O ſinner, and be ſor<g ref="char:EOLhyphen"/>rowful<note n="m" place="margin">
+                     <hi>Iſa.</hi> 46.8 <hi>Ioh.</hi> 3.8.</note>, and aſtonied there<g ref="char:EOLhyphen"/>at<note n="n" place="margin">
+                     <hi>Iere.</hi> 4.44.</note>: but the cauſe why thou doſt it not, is, thy negligent reading of the Scriptures<note n="o" place="margin">
+                     <hi>Mat.</hi> 22.29 <hi>Mark</hi> 12.24 2. <hi>Pet.</hi> 1.9.</note>, which are faithfull, and giue wiſedome to the ſimple<note n="p" place="margin">
+                     <hi>Pſ.</hi> 19.7.</note>. Thou therefore haſt no care at all to amende the life that thou leadeſt<note n="q" place="margin">
+                     <hi>Hagg.</hi> 2.18 2. <hi>Cor.</hi> 12.21</note>, lewd and wic<g ref="char:EOLhyphen"/>ked, in word and deede, as fo<g ref="char:EOLhyphen"/>loweth<note n="r" place="margin">
+                     <hi>Ezec.</hi> 36.31</note>:
+<q>
+                     <l>Quick to thy meat,</l>
+                     <l>VVith ſtomacke great<note n="ſ" place="margin">
+                           <hi>Ro.</hi> 13.13. 1. <hi>Sam.</hi> 2.14. <hi>Iam.</hi> 5.5</note>
+                     </l>
+                     <l>to church thou art as ſlow<hi rend="sup">s</hi>:</l>
+                     <l>To drinke all day<note n="t" place="margin">
+                           <hi>Heb.</hi> 7.12. <hi>Hebr.</hi> 12.12.</note>,</l>
+                     <l>But not to praie<note n="v" place="margin">
+                           <hi>Iſa.</hi> 5.11.</note>,</l>
+                     <l>thou canſt intend I know<note n="u" place="margin">
+                           <hi>Exod.</hi> 17.12.</note>.<note n="x" place="margin">
+                           <hi>Gen.</hi> 6.5.</note>
+                     </l>
+                     <l>
+                        <pb n="50" facs="tcp:4644:38"/>From Sermons<note n="x" place="margin">
+                           <hi>Pſ</hi> 50.28 <hi>Iere.</hi> 3.25,</note> reſt,</l>
+                     <l>To fables preſt<note n="y" place="margin">2 <hi>Ti.</hi> 4.4</note>
+                     </l>
+                     <l>therewith thou art<note n="z" place="margin">
+                           <hi>Tit.</hi> 1.14.</note> in vre</l>
+                     <l>To prate alwaies<note n="a" place="margin">
+                           <hi>Pro.</hi> 25, 28.</note>
+                     </l>
+                     <l>But not to praiſe,</l>
+                     <l>thy God thou canſt indure<note n="b" place="margin">
+                           <hi>Eſa.</hi> 1.2.3 <hi>Luc,</hi> 17, 18</note>
+                     </l>
+                     <l>Thou yeeldeſt thy minde,</l>
+                     <l>To wrath vnkind<note n="c" place="margin">
+                           <hi>Iob</hi> 36.18. <hi>Pro.</hi> 26.21</note>
+                     </l>
+                     <l>vngodlineſſe to ſtore<note n="d" place="margin">
+                           <hi>Pro.</hi> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.17 <hi>Pro</hi> 13.25</note>:</l>
+                     <l>And enuy fell</l>
+                     <l>Thou loueſt well<note n="e" place="margin">
+                           <hi>Ro,</hi> 1.29 <hi>Gal.</hi> 5.21.</note>
+                     </l>
+                     <l>the poore thou hateſt the more<note n="f" place="margin">
+                           <hi>Eze.</hi> 4, 1.8.4. <hi>Iob.</hi> 24.4.</note>
+                     </l>
+                     <l>In others eye.</l>
+                     <l>A mote to ſpie</l>
+                     <l>but not a beame in thyne<note n="g" place="margin">
+                           <hi>Mat.</hi> 7.3</note>
+                     </l>
+                     <l>To reprehend</l>
+                     <l>And not amend</l>
+                     <l>thy ſelfe, a ſory<note n="h" place="margin">
+                           <hi>Rom.</hi> 2.21 22 23.</note> ſigne.</l>
+                     <l>Thy ſelfe to praiſe,</l>
+                     <l>At all aſſaies<note n="i" place="margin">
+                           <hi>Pro.</hi> 27, 2</note>,</l>
+                     <l>and others to diſgrace:<note n="k" place="margin">
+                           <hi>Pro.</hi> 4, 24 <hi>Rom.</hi> 1 30. 2. <hi>Cor.</hi> 12.20</note>
+                     </l>
+                     <l>Is not to loue<note n="l" place="margin">1 <hi>Ioh.</hi> 4 8 20.21.</note>
+                     </l>
+                     <l>But malice moue,<note n="m" place="margin">1 <hi>Pet.</hi> 2, 1.</note>
+                     </l>
+                     <l>and diſcipline deface<note n="n" place="margin">
+                           <hi>Pro</hi> 4.13, <hi>Pro.</hi> 5.12.</note>.</l>
+                     <l>To vice a friend<note n="o" place="margin">
+                           <hi>Iohn.</hi> 18.40. <hi>Act.</hi> 3.14.</note>
+                     </l>
+                     <l>and moſt an end</l>
+                     <l>thou art a mortall foe:</l>
+                     <l>
+                        <pb n="51" facs="tcp:4644:38"/>To vertues lore<note n="p" place="margin">
+                           <hi>Iam.</hi> 4.4 1 <hi>Ioh.</hi> 2.15</note>
+                     </l>
+                     <l>Alas therefore</l>
+                     <l>thou cauſeſt all thy woe<note n="q" place="margin">
+                           <hi>Iſa.</hi> 59.2 <hi>Ierem.</hi> 25. <hi>Hoſ.</hi> 13.9.</note>
+                     </l>
+                  </q>
+               </p>
+               <p>Theſe thinges are they that blinde the<note n="r" place="margin">
+                     <hi>Mat</hi> 14.14. <hi>Luke.</hi> 6 24 2 <hi>Cor.</hi> 4.4.</note> ſight of the wiſe<note n="ſ" place="margin">
+                     <hi>Ro.</hi> 1.22.</note> and ſeuer them from God:<note n="s" place="margin">
+                     <hi>Ier.</hi> 5.25. <hi>Iſa.</hi> 59.2.</note> theſe thinges I ſay peruert a Chriſtian<note n="t" place="margin">
+                     <hi>Sirach.</hi> 10.13.</note>, whereby he be<g ref="char:EOLhyphen"/>commeth an Antychriſt<hi rend="sup">v</hi>, for he may well be termed an Antichriſt that is not a true Chriſtian<note n="u" place="margin">1 <hi>Io.</hi> 20.22. 1 <hi>Iohn</hi> 4.3. 2 <hi>The.</hi> 2.4 1 <hi>Ioh.</hi> 2.19</note>, whiche no man can be, that is in life and con<g ref="char:EOLhyphen"/>uerſation contrary to Chriſt<hi rend="sup">x</hi> Alas for pittie,<note n="y" place="margin">1. <hi>Ioh,</hi> 4.3</note> an vnwiſe man doth not vnderſtand this, nei<g ref="char:EOLhyphen"/>ther doth a foole conſider<note n="y" place="margin">
+                     <hi>Pſ.</hi> 92.6.</note> it, and therefore the Prophet ſayeth, <hi>As well the ignorant as the fooliſh ſhall periſh</hi>
+                  <note n="z" place="margin">
+                     <hi>Pſal.</hi> 49.10</note>. I but what diuerſitie is betwixt the ignorant and the fooliſh? An ignorant or vnwiſe man is he
+<pb n="52" facs="tcp:4644:39"/>
+that is without wiſedome or knowledge<note n="a" place="margin">
+                     <hi>Eph.</hi> 4 18. 1 <hi>Cor,</hi> 15.34. <hi>Luc.</hi> 18 34 <hi>Act.</hi> 17 23</note>: euery foole is vnwiſe<note n="b" place="margin">
+                     <hi>Ier.</hi> 4.12.</note>, but euery one that is vnwiſe is not ſtraight waies a ſtarke foole<note n="c" place="margin">
+                     <hi>Pſ.</hi> 94.8. Pſa. 92.6.</note>. Wilte thou knowe who is ignoraunt and who is fooliſh<note n="d" place="margin">
+                     <hi>Pſal,</hi> 14 1 <hi>Mat.</hi> 15, 14</note>? I aunſwere that he is ignora<g ref="char:cmbAbbrStroke">̄</g>t that know<g ref="char:EOLhyphen"/>eth not himſelfe to bee a Pil<g ref="char:EOLhyphen"/>grime<note n="e" place="margin">
+                     <hi>Chr.</hi> 29.15. <hi>Heb.</hi> 11.13</note> banniſhed from the wayes of Paradiſe<note n="f" place="margin">
+                     <hi>Gen.</hi> 3.2. <hi>Luc</hi> 10 30</note> or that doth not know himſelfe to be a meere ſtraunger<note n="g" place="margin">
+                     <hi>Eph</hi> 2.12.19.</note> in this his painefull pilgremage.<note n="h" place="margin">
+                     <hi>Mi.</hi> 2.10 <hi>Heb</hi> 13.14 <hi>Syra.</hi> 4.1 2 3.4.5.6.7 2. <hi>Cor.</hi> 5.6</note> But he is a foole that though hee do knowe theſe thinges, yet ſtill imbraceth<note n="i" place="margin">1 <hi>Tim.</hi> 6.17.18. <hi>Eccl.</hi> 10.14</note> theſe wicked and worldly delights<note n="k" place="margin">
+                     <hi>Ia.</hi> 5.1.5. <hi>Luc.</hi> 12 20</note> there<g ref="char:EOLhyphen"/>of, as though it were his pro<g ref="char:EOLhyphen"/>per manſion, and continuing Citie<note n="l" place="margin">
+                     <hi>Col.</hi> 3.1.</note>: and neuer intendeth to forgoe the miſeryes and
+<pb n="53" facs="tcp:4644:39"/>
+vanities of the ſame<note n="m" place="margin">
+                     <hi>Luc.</hi> 12.19 <hi>Rom.</hi> 8.28. 1 <hi>Cor.</hi> 7.31 <hi>Iam.</hi> 4.4.</note>,<note place="margin">
+                     <hi>Heb.</hi> 13.13 14</note> which he cloketh vnder the name &amp; title of paſtimes<note n="n" place="margin">
+                     <hi>Wiſ.</hi> 2.6.</note> &amp; pleſures<note n="o" place="margin">7 8 9</note>, beeing in deede but meere va<g ref="char:EOLhyphen"/>nities<note n="p" place="margin">
+                     <hi>Ecc.</hi> 2.1.</note> &amp; the verie extremitie of folly<note n="q" place="margin">
+                     <hi>Luc.</hi> 12.20 1 <hi>Ioh.</hi> 2.15 <hi>Ioh.</hi> 15.19. <hi>Ioh.</hi> 16.20. <hi>Pro.</hi> 15.21</note>, conſidering that the end of al mortall ioy is mour<g ref="char:EOLhyphen"/>ning and ſorrowe<note n="r" place="margin">
+                     <hi>Prou.</hi> 14, 13</note>. Likewiſe hee is ignoraunt<note n="ſ" place="margin">
+                     <hi>Act.</hi> 17.23. 1 <hi>Cor.</hi> 2.8.</note> that know<g ref="char:EOLhyphen"/>eth<note n="s" place="margin">
+                     <hi>Io.</hi> 8.27.</note> or beleeueth<note n="t" place="margin">
+                     <hi>Luc.</hi> 18.34</note> not the puniſhment of the wicked to bee eternall<note n="v" place="margin">2 <hi>The.</hi> 1, 8 <hi>Math.</hi> 25, 41.</note>, and the ioye of the righteous euerlaſting<note n="u" place="margin">
+                     <hi>Reuel.</hi> 21, 4.</note>. But hee is a foole<note n="x" place="margin">
+                     <hi>Pſal.</hi> 14, 1.</note> that al<g ref="char:EOLhyphen"/>though hee doe knowe and beleeue<note n="y" place="margin">
+                     <hi>Ro.</hi> 1, 21,</note> it: yet to auoyde e<g ref="char:EOLhyphen"/>ternall death<note n="z" place="margin">
+                     <hi>Iud.</hi> 7, 1 <hi>Th.</hi> 5.3,</note>, and to at<g ref="char:EOLhyphen"/>taine vnto life euerlaſtinge, doeth not call for grace<note n="a" place="margin">
+                     <hi>Wiſ.</hi> 12.19, <hi>Ro.</hi> 7, 25.</note>, to repent him of his ſinnes paſt,
+<pb n="54" facs="tcp:4644:40"/>
+&amp; hereafter to ſhew mercy to do iuſtice, &amp; to walke with his God<note n="b" place="margin">
+                     <hi>Mich.</hi> 6.8,</note> by whoſe iuſt iudge<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t <hi>both the ignorant &amp; the fo<g ref="char:EOLhyphen"/>liſh periſh alike.</hi>
+                  <note n="c" place="margin">
+                     <hi>Pſal.</hi> 49.10. <hi>Wiſ.</hi> 6.26 <hi>Gal.</hi> 6.3.</note> Wherefore let vs ſo beholde our ſelues in this Glaſſe of vaine-glory, that vpon the viewe of our owne eſtate therein: we may knowe our ſelues to be but miſerable<note n="d" place="margin">
+                     <hi>Pſa.</hi> 9.20 <hi>Pſal.</hi> 39.6.</note> and of no continuance,<note n="e" place="margin">
+                     <hi>Iſai.</hi> 59 2.</note> and vnderſtand our ſins &amp; wick<g ref="char:EOLhyphen"/>kednes againſt God to be in<g ref="char:EOLhyphen"/>finite<hi rend="sup">l</hi> &amp; to cry for vengeance againſt vs according to our de<g ref="char:EOLunhyphen"/>ſert<note n="f" place="margin">
+                     <hi>Gen.</hi> 4.10. <hi>Gen</hi> 18·20</note> that at length feelinge our own imperfections &amp; the weight of our ſinne<note n="g" place="margin">
+                     <hi>Pſa.</hi> 38.6 <hi>Rom.</hi> 7.24. <hi>Gal</hi> 3.22. <hi>Rom.</hi> 10.4 <hi>Gal.</hi> 3.24.</note>, maye prouide aforehand in this ac<g ref="char:EOLhyphen"/>ceptable time<note n="h" place="margin">
+                     <hi>Gal</hi> 6.10.</note> of our viſitati<g ref="char:EOLhyphen"/>on<note n="i" place="margin">
+                     <hi>Math.</hi> 19.44.</note> both by faithfull repen<g ref="char:EOLhyphen"/>tance to auoide eternal death and deſtruction<note n="k" place="margin">
+                     <hi>Luc.</hi> 3.7. <hi>Math.</hi> 3, 7.</note>, which God
+<pb n="55" facs="tcp:4644:40"/>
+hath ordained for the wicked and reprobate<note n="l" place="margin">
+                     <hi>Sira.</hi> 40.9 10.</note> children of vnbeleefe<note n="m" place="margin">
+                     <hi>Eph.</hi> 2 2</note>, who dandled in the lappe of follye<note n="n" place="margin">
+                     <hi>Ecc.</hi> 10.1 4. <hi>Wiſd.</hi> 5 4.</note>, neuer feare the fall of future inco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>uenie<g ref="char:cmbAbbrStroke">̄</g>ce<hi rend="sup">e</hi>,<note n="o" place="margin">
+                     <hi>Iud.</hi> 18 27.</note> til being ſerued with the Writ of preſent pena<g ref="char:cmbAbbrStroke">̄</g>ce,<note n="p" place="margin">
+                     <hi>Mat.</hi> 25.12 <hi>Luc.</hi> 12.19 <hi>Luc</hi> 12.46</note> they find little leiſure to repe<g ref="char:cmbAbbrStroke">̄</g>t <note n="s" place="margin">
+                     <hi>Dan,</hi> 3.10.</note> And how alſo we maye faith<g ref="char:EOLhyphen"/>fully and effectually lay hold of our ſaluation<note n="q" place="margin">
+                     <hi>Eph.</hi> 2.8.</note> by fayth vn<g ref="char:EOLhyphen"/>fayned<note n="r" place="margin">1 <hi>Tim.</hi> 1.5</note> that worketh through loue<note n="ſ" place="margin">
+                     <hi>Gal.</hi> 5.6. <hi>Iam.</hi> 2.26</note> whereby wee attaine to that immortall kingdome<note n="s" place="margin">
+                     <hi>Dan,</hi> 3.10.</note> which God hath ordained for his elect before the foundati<g ref="char:EOLhyphen"/>on of the worlde was layde<note n="t" place="margin">
+                     <hi>Mat.</hi> 25.34.</note> Through the merites<note n="v" place="margin">1. <hi>Timot.</hi> 1 9. 1 <hi>Pet.</hi> 1.3. <hi>Gal.</hi> 3.19. 1 <hi>Pet.</hi> 1.19 <hi>Reu.</hi> 5.9.</note> of our Lorde and ſauiour Ieſu Chriſt to whom with the father and the holy ghoſt be all honour, and glory for euer and euer<note n="u" place="margin">
+                     <hi>Tim.</hi> 1 17</note>. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="illustration">
+            <pb n="56" facs="tcp:4644:41"/>
+            <p>This is the iudgement of all fleſh:
+<q>Thou ſhalt dye the death. <bibl>
+                     <hi>Heb. 9.27.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>
+               <figure>
+                  <p>MORS · TVA MORS · CHRISTI FRAVS MVNDI GLORIA · COELI</p>
+                  <p>QVOD VNI ET OMNIBVS</p>
+                  <p>ET · DOLOR · INFERNI · SVNT · MEDITANDA ·TIBI ·</p>
+                  <p>MIHI · HODIE · CRAS TIBI</p>
+                  <p>MORS SEPTRA LIGONIB EQVAT</p>
+                  <p>MORS · SEPTRA · LIGONIE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> · EQVAT</p>
+               </figure>
+            </p>
+            <l>Death is the hyre of ſinne: behold,</l>
+            <l>The wicked haue no reſt,</l>
+            <l>But vnto them that loue the Lord,</l>
+            <l>It turneth to the beſt.</l>
+         </div>
+         <div type="poem">
+            <pb n="57" facs="tcp:4644:41"/>
+            <head>The complaint of a ſor<g ref="char:EOLhyphen"/>rowfull Soule, that loathing <hi>his earthly tabernacle, and bewai<g ref="char:EOLhyphen"/>ling</hi> the miſeryes of this life, deſireth to be diſſolued &amp; to be with <hi>Chriſt out of</hi> S. <hi>Auguſtines Prayers</hi> the xx chapter therof, <hi>faith<g ref="char:EOLhyphen"/>fully tranſlated into En<g ref="char:EOLhyphen"/>gliſh verſe, by W.P.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Et me depart in peace<note n="a" place="margin">
+                     <hi>Luc.</hi> 2.29</note>,</l>
+               <l>O Lord, I dayly grone</l>
+               <l>And loath this life I<note n="b" place="margin">
+                     <hi>Iob</hi> 3, 20</note> lead</l>
+               <l>O help that I were gon</l>
+               <l>In miſchiefes manifolde,</l>
+               <l>my Pilgrims<note n="c" place="margin">
+                     <hi>Pſa.</hi> 39, 1 21 <hi>Heb.</hi> 11.13</note> part I play:</l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for aye<note n="d" place="margin">
+                     <hi>Phi.</hi> 1 23</note>.</l>
+            </lg>
+            <lg>
+               <l>O miſerable life<hi rend="sup">e</hi>
+               </l>
+               <l>and tranſitorie<note n="f" place="margin">
+                     <hi>Iob,</hi> 14.1.7 1.</note> plaine:</l>
+               <l>Vncertaine<note n="g" place="margin">
+                     <hi>Pſa.</hi> 39.6.</note> fully fraught</l>
+               <l>with ſorrowes griefe and paine,<note n="h" place="margin">
+                     <hi>Gen.</hi> 6.5.</note>
+               </l>
+               <l>O life poluted oft</l>
+               <l>that doth my deedes diſplay:</l>
+               <l>
+                  <pb n="58" facs="tcp:4644:42"/>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for ay.</l>
+            </lg>
+            <lg>
+               <l>This life is Queene of pride<note n="i" place="margin">
+                     <hi>Eſa</hi> 47.7</note>
+               </l>
+               <l>that errors<note n="k" place="margin">2 <hi>The.</hi> 2.11</note> foule doth breede,</l>
+               <l>A wretched ſtate that is,</l>
+               <l>no life, but death<note n="l" place="margin">
+                     <hi>Gal.</hi> 2.19</note> in deede,</l>
+               <l>We yeeld to Natures<note n="m" place="margin">2 <hi>Sam.</hi> 14 <hi>Heb.</hi> 9.27.</note> want</l>
+               <l>and ſundry wayes decay</l>
+               <l>Oh then that I diſſolued were</l>
+               <l>to liue with Chriſt for ay.</l>
+            </lg>
+            <lg>
+               <l>Is this a life (trow ye)</l>
+               <l>wherein, we plunge<note n="n" place="margin">
+                     <hi>Ecc.</hi> 4.3.</note> in payn:</l>
+               <l>Puft vp<note n="o" place="margin">
+                     <hi>Deut.</hi> 22 15</note> with euery ioy,</l>
+               <l>and ſnibde<note n="p" place="margin">
+                     <hi>Ioh</hi> 3.3</note> with greefe agayne</l>
+               <l>With foggie ayre infect<note n="q" place="margin">1 <hi>Reg.</hi> 8.37.</note>
+               </l>
+               <l>and parcht with heat of day:</l>
+               <l>Oh then that I diſſolued were</l>
+               <l>to liue with Chriſt for aye.</l>
+            </lg>
+            <lg>
+               <l>With ſeeding fat we grow</l>
+               <l>with faſting long as leane:</l>
+               <l>With myrth we mounting are,<note n="r" place="margin">
+                     <hi>Mat.</hi> 20.12. <hi>Amos</hi> 4.1 <hi>Ier.</hi> 5.28 <hi>Mat.</hi> 6, 16. <hi>Iſai.</hi> 53.5</note>
+               </l>
+               <l>with ſadneſſe drouping<note n="ſ" place="margin">
+                     <hi>Eccl.</hi> 2.2</note> cleane,</l>
+               <l>With care conſumed quite<note n="s" place="margin">
+                     <hi>Sirac.</hi> 30 21.22</note>,</l>
+               <l>our weakeneſſe<note n="t" place="margin">23 24</note> hath no ſtaye:<note n="v" place="margin">
+                     <hi>Pſal.</hi> 69.1 2 3</note>
+               </l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for aye.</l>
+            </lg>
+            <lg>
+               <pb n="58" facs="tcp:4644:42"/>
+               <l>As wealth doth prick in pride<note n="v" place="margin">
+                     <hi>Deu</hi> 6.12</note>
+               </l>
+               <l>ſo want doth cauſe diſmay<note n="u" place="margin">
+                     <hi>Iaco.</hi> 1</note>:</l>
+               <l>Youth<note n="x" place="margin">
+                     <hi>Pro.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.6</note> bolt vpright we ſee,</l>
+               <l>and crooking age decay.</l>
+               <l>With ſickneſſe ſore we breake<note n="y" place="margin">
+                     <hi>Pſ.</hi> 37.2. <hi>Iob.</hi> 30.15.16 <hi>ibid.</hi> 23.</note>
+               </l>
+               <l>with ſorrow ſoone away,</l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for ay.</l>
+            </lg>
+            <lg>
+               <l>When raging death doth ſweepe.<note n="z" place="margin">
+                     <hi>Luc.</hi> 12 20</note>
+               </l>
+               <l>and quench our pleaſures vaine<note n="a" place="margin">
+                     <hi>Iob</hi> 7 11 1 <hi>Pſal.</hi> 37.38</note>
+               </l>
+               <l>It makes an end of all at once,</l>
+               <l>and lets no whit remaine:</l>
+               <l>That paſt, it had not bene</l>
+               <l>a man may ſurely ſay<note n="b" place="margin">
+                     <hi>Iob.</hi> 20, 6 <hi>Pſ.</hi> 37.36</note>:</l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for ay.</l>
+            </lg>
+            <lg>
+               <l>This vitall<note n="c" place="margin">2 <hi>Sa.</hi> 141 142</note> death of ours,</l>
+               <l>and mortall<note n="d" place="margin">
+                     <hi>Reu.</hi> 2.2</note> life with woe<note n="e" place="margin">
+                     <hi>Iob.</hi> 14.1</note>
+               </l>
+               <l>Replete (O curſed caſe)</l>
+               <l>and yet a greefe to ſhow.</l>
+               <l>How many ſnarde<note n="f" place="margin">2 <hi>Tim.</hi> 4.10 <hi>Epheſ.</hi> 2.3. 1 <hi>Ioh.</hi> 2.15 1 <hi>Tim.</hi> 6.9.</note> in ſinne</l>
+               <l>ſhee lureth to her pray<note n="g" place="margin">
+                     <hi>Prou.</hi> 14 27</note>:</l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for aye.</l>
+            </lg>
+            <lg>
+               <l>And though the blindeſt man<note n="h" place="margin">
+                     <hi>Ezech.</hi> 7 19. <hi>Mich.</hi> 6.10</note>,</l>
+               <l>may ſoone eſpie this geare:</l>
+               <l>
+                  <pb n="60" facs="tcp:4644:43"/>Yet with her golden cup<note n="i" place="margin">
+                     <hi>Reu.</hi> 17.2 3 4</note>,</l>
+               <l>which ſhe in hand doth beare</l>
+               <l>She makes a meny drinke,</l>
+               <l>their folly<note n="k" place="margin">1 <hi>Cor.</hi> 1.17 18</note> bewray<note n="l" place="margin">
+                     <hi>Mat</hi> 6.24 <hi>Luc</hi> 16 13</note>,</l>
+               <l>Oh then that I diſſolued were</l>
+               <l>to liue with Chriſt for ay.</l>
+            </lg>
+            <lg>
+               <l>O rare and happie men,</l>
+               <l>that doe diſpiſe her draught,<note n="m" place="margin">
+                     <hi>Ioh.</hi> 15.18, 19.20</note>,</l>
+               <l>Her pleaſures vaine eſchew,</l>
+               <l>
+                  <note n="n" place="margin">
+                     <hi>Tit.</hi> 9.9.6.7.</note> and ſhun her ſnares vncaught,</l>
+               <l>Leaſt they by her deceaude,</l>
+               <l>deceaue themſelues<note n="o" place="margin">
+                     <hi>Iuc.</hi> 5.1. <hi>Eccl.</hi> 5.9.</note> I ſay:</l>
+               <l>Oh then that I diſſolued were,</l>
+               <l>to liue with Chriſt for aye,</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="translator_to_the_reader">
+            <pb n="61" facs="tcp:4644:43"/>
+            <head>The Tranſlator to the Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here <hi>Nouiſsima,</hi> or the laſt things (men<g ref="char:EOLhyphen"/>tioned, as well in Deut. as by the Sonne of <hi>Syrach</hi>) are in number foure, to wit, <hi>Death, Iudgement, the Paines of Hell, and the Ioyes of heauen:</hi> and hauing nowe out of S. <hi>Auguſtine,</hi> ſufficiently in<g ref="char:EOLhyphen"/>treated of <hi>Death, Iudgement,</hi> and <hi>Hell,</hi> I thought it neceſſary to deliuer likewiſe (out of the ſame Author) vnto the repentant Rea<g ref="char:EOLhyphen"/>der, ſome taſt of the ioyes Coeleſtial, to inflame his mind with an earneſt deſire, and a longing after his hea<g ref="char:EOLhyphen"/>uenly inheritance, and continuing Countrey, the Citie of the great King, that ſupernal <hi>Ieruſalem,</hi>
+               <pb n="62" facs="tcp:4644:44"/>
+and mother of vs all, whereby the fleſhly deſire of carnall men (which is corrupt fro<g ref="char:cmbAbbrStroke">̄</g> their youth vpward) and the loue of the world (which is a loathing of God) might happily be quenched in compariſon of that infinit ioy and glorie that ſhall be reuealed vnto vs, the rather for that euery thing naturally coue<g ref="char:EOLhyphen"/>teth his complement and chiefeſt happineſſe, which the Philoſophers call <hi>Summum bonum,</hi> and is nowhere to be either had or hoped for, but in that heauenly habitati<g ref="char:EOLhyphen"/>on, the fulneſſe of our ioye purcha<g ref="char:EOLhyphen"/>ſed by Christ, promiſed by Scrip<g ref="char:EOLhyphen"/>ture: and contained in this ſong of Sion which I haue here tranſlated (out of S. Augustines booke of Prayers, Chap. <hi>24.</hi> into Engliſhe meeter, quoted and confirmed by the testimonie of the word (though in deede it be of it ſelfe nothing els
+<pb n="63" facs="tcp:4644:44"/>
+but an abridgement of ſundry pla<g ref="char:EOLhyphen"/>ces of ſcripture, curiouſly collected, and cunningly couched) togither for that purpoſe, as the learned Reader may eaſily perceaue: where<g ref="char:EOLhyphen"/>fore, I haue as neare as I could poſ<g ref="char:EOLhyphen"/>ſibly, followed the verie wordes of mine Authour, contrarie to the minde of the Poet that ſayeth:
+<q>Nec verbum verbo curabis reddere fidus interpres.</q>
+though I coulde not attaine to his perfection and grauitie, notwith<g ref="char:EOLhyphen"/>ſtanding my hope is, that my will may ſupply my vant therein, with the godly Reader, that liketh the ſence of the minde better than the ſound of the eare. And therefore ſimply ſingeth this Pſalme of Sion in this his wofull captiuitie and baniſhment as followeth.</p>
+            <div type="poem">
+               <pb n="60" facs="tcp:4644:45"/>
+               <l>
+                  <seg rend="decorInit">O</seg> Mother deare Hieruſalem<note n="a" place="margin">
+                     <hi>Gal.</hi> 4.26</note>
+               </l>
+               <l>
+                  <hi>Iehouas</hi> throne<note n="b" place="margin">
+                     <hi>Chro.</hi> 9.6 <hi>Reu.</hi> 20.11</note> on hie,</l>
+               <l>O ſacred Citie<note n="c" place="margin">
+                     <hi>Eph.</hi> 2.19</note>, Queene<note n="d" place="margin">
+                     <hi>Pſ.</hi> 43.11</note> &amp; wife<note n="e" place="margin">
+                     <hi>Eph.</hi> 5.32 <hi>Apoc.</hi> 9.7</note>,</l>
+               <l>of Chriſt eternally.</l>
+               <l>My hart<note n="f" place="margin">
+                     <hi>Pſ.</hi> 16.11 <hi>Pſ.</hi> 67.1.</note> doth long to ſee thy face,</l>
+               <l>my ſoule doth ſtill deſire<note n="g" place="margin">42.1.</note>
+               </l>
+               <l>Thy glorious<note n="h" place="margin">26.8 73.28</note> beautie to behold</l>
+               <l>my mind is ſet on fire<note n="i" place="margin">
+                     <hi>Pſa.</hi> 84.2</note>.</l>
+               <l>O comely Queene<note n="k" place="margin">
+                     <hi>Cant.</hi> 1.4</note> in glorie clad<note n="l" place="margin">
+                     <hi>Reue.</hi> 12.1</note>,</l>
+               <l>in honour<note n="m" place="margin">
+                     <hi>Pſa.</hi> 45.11.15</note> and degree<note n="n" place="margin">
+                     <hi>Soph.</hi> 3.20</note>:</l>
+               <l>Al faire<note n="o" place="margin">
+                     <hi>Cant.</hi> 4.7</note> thou art exceeding bright<note n="p" place="margin">
+                     <hi>Eſa.</hi> 60.1.2.3</note>
+               </l>
+               <l>no ſpot<note n="q" place="margin">
+                     <hi>Eph.</hi> 3.27</note> there is in thee.</l>
+               <l>O piereleſſe dame and daughter faire</l>
+               <l>of loue<note n="r" place="margin">
+                     <hi>Pſ.</hi> 45.15 <hi>Pſal.</hi> 45.11</note>, without annoy</l>
+               <l>Triumph, for in thy beautie braue,</l>
+               <l>the king doth greatly ioy<hi rend="sup">ſ</hi>.</l>
+               <l>Thy port, thy ſhape, thy ſtately grace<note n="s" place="margin">
+                     <hi>Can.</hi> 4.1.2.3.4.5.12.13.14.15.</note>,</l>
+               <l>thy fauour faire in deede:</l>
+               <l>Thy pleaſant hew and countinance;</l>
+               <l>all others doth exceede<note n="t" place="margin">
+                     <hi>Pſal.</hi> 45.2.</note>.</l>
+               <l>What is thy welbeloued mate</l>
+               <l>thou faireſt<note n="v" place="margin">
+                     <hi>Cant</hi> 3.6.</note> of thy kind?</l>
+               <l>My loue is white and ruddie both<note n="u" place="margin">
+                     <hi>Ibid.</hi> 10.11.12.13.</note>,</l>
+               <l>of thouſands chiefe aſsignd.</l>
+               <l>For as the pleaſant Apple tree<note n="x" place="margin">
+                     <hi>Cant.</hi> 2.3.</note>
+               </l>
+               <l>amid the Foreſt greene</l>
+               <l>Surmounts the reſt ſo fares my loue</l>
+               <l>
+                  <pb n="65" facs="tcp:4644:45"/>the ſonnes of men betweene.</l>
+               <l>His ſhadow me doth couer quite</l>
+               <l>where vnder I do ſit:</l>
+               <l>His fruite is ſweete and pleaſant both</l>
+               <l>my mouth deſireth it,</l>
+               <l>My welbeloued mate did put,</l>
+               <l>his hand within my doore<note n="y" place="margin">
+                     <hi>Can.</hi> 5.4.5.</note>:</l>
+               <l>Therfore in him my Lord<note n="z" place="margin">1. <hi>Tim.</hi> 3.15</note> &amp; life<note n="a" place="margin">
+                     <hi>Ph.</hi> 1.21.</note>,</l>
+               <l>my ioy<note n="b" place="margin">
+                     <hi>Can.</hi> 5.4.</note> encreaſeth more.</l>
+               <l>I ſought him in my bed my ioy<note n="c" place="margin">
+                     <hi>Can.</hi> 3.</note>,</l>
+               <l>alas for loue I die<note n="d" place="margin">
+                     <hi>Can.</hi> 5.8.</note>:</l>
+               <l>I ſought him oft and now behold,</l>
+               <l>I found him preſently<note n="e" place="margin">
+                     <hi>Can.</hi> 3.4.</note>.</l>
+               <l>Now will I hold him faſt in deede</l>
+               <l>till he bring me vnto</l>
+               <l>My mothers houſe and chambers faire</l>
+               <l>I will not let him go.</l>
+               <l>For there his dugs<note n="f" place="margin">
+                     <hi>Reuel.</hi> 7.15.16.</note> abundantly</l>
+               <l>I hope to ſucke, and there</l>
+               <l>I ſhall be ſure to rid my ſelfe</l>
+               <l>from hunger<note n="g" place="margin">
+                     <hi>Eſa.</hi> 49.10</note>, thirſt, and feare,</l>
+               <l>O then thriſe happie ſhould my ſtate</l>
+               <l>in happineſſe remaine:</l>
+               <l>If I might once thy glorious Seate<note n="h" place="margin">
+                     <hi>Pſ.</hi> 26.8.27.4</note>,</l>
+               <l>and princely place<note n="i" place="margin">84.4 <hi>Reue.</hi> 21.4 1. <hi>Cor.</hi> 2.9. <hi>Eſai</hi> 64.4.</note> attaine.</l>
+               <l>And view thy gallant gates<note n="k" place="margin">
+                     <hi>Re.</hi> 21.25</note> thy wals<note n="l" place="margin">21.18</note>
+               </l>
+               <l>thy ſtreates and dwellings<note n="m" place="margin">
+                     <hi>Io</hi> 14.2.</note> wide,</l>
+               <l>Thy noble troup of Citizens,</l>
+               <l>and mightie king<note n="n" place="margin">1 <hi>Cor.</hi> 13.12 <hi>Reue.</hi> 22.4 21.19 20.</note> beſide.</l>
+               <l>Of ſtones full precious are thy towres,</l>
+               <l>
+                  <pb n="66" facs="tcp:4644:46"/>thy gates of Pearles<note n="o" place="margin">21</note> are tolde</l>
+               <l>There is that Alleluia<note n="p" place="margin">19.1.3.</note> ſung</l>
+               <l>in ſtreates of beaten gold<note n="q" place="margin">21, 18</note>,</l>
+               <l>Thoſe ſtately buildings<note n="r" place="margin">
+                     <hi>Reu.</hi> 21. <hi>verſ.</hi> 12.</note> manifold</l>
+               <l>on ſquared ſtones do riſe<note n="ſ" place="margin">16.</note>:</l>
+               <l>VVith Saphyrs<note n="s" place="margin">14.</note> deckt, &amp; lofty frames</l>
+               <l>encloſed Caſtlewiſe.</l>
+               <l>Into the gates ſhall none approche</l>
+               <l>but honeſt pure and cleane<note n="t" place="margin">
+                     <hi>verſ.</hi> 27. <hi>Phil.</hi> 4.3 <hi>Re.</hi> 3 5.20.12.</note>,</l>
+               <l>No ſpot, no filth, no loathſom thing,</l>
+               <l>ſhall enter in (I meane)</l>
+               <l>O mother deare Ieruſalem<note n="v" place="margin">
+                     <hi>Ga.</hi> 4.26.</note>
+               </l>
+               <l>the comfort<note n="u" place="margin">
+                     <hi>Pſ.</hi> 122.1</note> of vs all,</l>
+               <l>How ſwete thou art and dilicate<note n="x" place="margin">
+                     <hi>Can.</hi> 4.10 11 12</note>
+               </l>
+               <l>no thing ſhall thee befall<note n="y" place="margin">
+                     <hi>Eſ.</hi> 35.10 60.20</note>.</l>
+               <l>That here on earth we ſuffer oft,</l>
+               <l>poore wretches that beholde</l>
+               <l>This world in ſorrow ſouſt, and maſſe</l>
+               <l>of miſchiefes manifolde<note n="z" place="margin">
+                     <hi>Ro.</hi> 7.24. <hi>Phil.</hi> 1.23.</note>,</l>
+               <l>In thee Ieruſalem I ſaye,</l>
+               <l>no darkeneſſe dare appeare<note n="a" place="margin">
+                     <hi>Reu.</hi> 21.23 24 25.22.5 <hi>Eſa.</hi> 60.1 2 3 5 19.20. <hi>Reu.</hi> 22.3.</note>,</l>
+               <l>No night, no ſhade, no winter foule,</l>
+               <l>no time doth alter there,</l>
+               <l>No candle there, no moone to ſhine,</l>
+               <l>no glittering ſtarre to lighte,</l>
+               <l>But Chriſt of righteouſneſſe the king</l>
+               <l>for euer ſhineth bright<note n="b" place="margin">4.5.</note>,</l>
+               <l>The lambe vnſpotted<note n="c" place="margin">
+                     <hi>Reu.</hi> 21.23.</note> white &amp; pure,</l>
+               <l>to thee may ſtand in liew:</l>
+               <l>
+                  <pb n="67" facs="tcp:4644:46"/>Of light ſo great: thy glorie is</l>
+               <l>this heauenly King to view<note n="d" place="margin">
+                     <hi>Reu.</hi> 22.4</note>
+               </l>
+               <l>He is the king of kings<note n="e" place="margin">1.5 17, 14 19.16</note> beſet</l>
+               <l>amidſt his Seruants<note n="f" place="margin">1.13</note> right,</l>
+               <l>And they his happie houſhold all</l>
+               <l>do ſerue him day and night<note n="g" place="margin">4.10.11. <hi>Eſa.</hi> 6.3. <hi>Reu.</hi> 7.15.</note>.</l>
+               <l>there, there the quiers of Angels<note n="h" place="margin">
+                     <hi>Re.</hi> 5.10 11, 12 13.14</note> ſing</l>
+               <l>there the ſupernall ſort:</l>
+               <l>Of Citizens (that hence are rid</l>
+               <l>from dangers deepe) do ſport<note n="i" place="margin">
+                     <hi>Luc.</hi> 16.22 <hi>Reu.</hi> 6 9.7.14.2.6.</note>,</l>
+               <l>There be the prudent Prophets all,</l>
+               <l>Thappoſtles ſix and ſix<note n="k" place="margin">20.14 21.24</note>,</l>
+               <l>The glorious martirs on a row<note n="l" place="margin">20.4.6.9 7.6 9 7 8.9.10.15.</note>
+               </l>
+               <l>and Confeſſors betwixt.</l>
+               <l>There doth the crew of righteous men</l>
+               <l>and matrons all conſiſt:</l>
+               <l>Yong men &amp; maids that here on earth</l>
+               <l>their pleaſures<note n="m" place="margin">
+                     <hi>Ro.</hi> 13 13</note> did reſiſt,</l>
+               <l>The ſheepe &amp; lambs that hardly ſcapte</l>
+               <l>the ſnares of death and hell<note n="n" place="margin">
+                     <hi>Re.</hi> 19.1.2.3.4.5.6.7.</note>
+               </l>
+               <l>Triumph in ioy euerlaſtingly</l>
+               <l>whereof no tongue can tell<note n="o" place="margin">1 <hi>Co.</hi> 2.9 <hi>Eſa.</hi> 64 4.</note>,</l>
+               <l>And though the glorie of ech one</l>
+               <l>doth differ in degree<note n="p" place="margin">1 <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> 15.42. <hi>Mat.</hi> 11.12.</note>,</l>
+               <l>Yet is the ioy of all alike,</l>
+               <l>and common: (as wee ſee<note n="q" place="margin">20.9.25.34. <hi>Reu.</hi> 7.4.5.</note>)</l>
+               <l>Where loue and charitie<note n="r" place="margin">1. <hi>Io.</hi> 4.7.8.</note> do raigne</l>
+               <l>and Chriſt is all in all<note n="ſ" place="margin">1. <hi>Cor.</hi> 12.6.13.2.</note>
+               </l>
+               <l>
+                  <pb n="68" facs="tcp:4644:47"/>Whom they moſt perfetly behold</l>
+               <l>in glory ſpirituall<note n="s" place="margin">1 <hi>Ioh.</hi> 3.2 1 <hi>Ioh.</hi> 4.19 <hi>Eſay.</hi> 6.3,</note>
+               </l>
+               <l>They loue they praiſe<note n="t" place="margin">
+                     <hi>Reu.</hi> 5.9.14.3.</note> thy praiſe they loue</l>
+               <l>they holy holy, crie:</l>
+               <l>They neither faint, nor toile, nor ende</l>
+               <l>but laude continually<note n="v" place="margin">
+                     <hi>Pſ.</hi> 30.15</note>
+               </l>
+               <l>O happie hundred times were I,</l>
+               <l>If after wretched dayes<note n="u" place="margin">
+                     <hi>Ro.</hi> 8, 23.36. 2 <hi>Cor.</hi> 4 10 1 <hi>The.</hi> 3, 3 <hi>Iob.</hi> 7, 1.</note>
+               </l>
+               <l>I might with liſtening eares conceaue</l>
+               <l>thoſe heauenly ſonges of praiſe,</l>
+               <l>Which to the eternall King, are ſong,</l>
+               <l>by heauenly wightes aboue:</l>
+               <l>By ſacred ſoules and Angels ſweete,</l>
+               <l>to Ioue the God of loue<note n="x" place="margin">
+                     <hi>Reu.</hi> 19.1 3, 4.5 6 7. <hi>Pſ.</hi> 147.1.148.1, 2.3.4.5 <hi>Pſa,</hi> 149.</note>
+               </l>
+               <l>But paſſing happie were my ſtate</l>
+               <l>might I be worthy found:</l>
+               <l>To waite vpon my king my God,</l>
+               <l>his praiſes thereto ſounde</l>
+               <l>And to enioy my Chriſt aboue<note n="y" place="margin">
+                     <hi>Phil</hi> 23. <hi>Coloſ</hi> 3.1.</note>
+               </l>
+               <l>his fauour and his grace<note n="z" place="margin">
+                     <hi>Pſal.</hi> 4.7.</note>
+               </l>
+               <l>According to his promiſe made,</l>
+               <l>which here I interlace.</l>
+               <l>
+                  <hi>O father deare</hi> (qd he) <hi>let them.</hi>
+               </l>
+               <l>
+                  <hi>whom thou haſt put of olde</hi>
+               </l>
+               <l>
+                  <hi>To me bee there where ſo I am</hi>
+               </l>
+               <l>
+                  <hi>my glory to beholde:</hi>
+               </l>
+               <l>
+                  <hi>Which</hi> I <hi>with thee afore this worlde</hi>
+               </l>
+               <l>
+                  <hi>was laid in perfect wiſe</hi>
+               </l>
+               <l>
+                  <hi>Haue had</hi>
+                  <note n="a" place="margin">
+                     <hi>Io.</hi> 17.24</note> fro<g ref="char:cmbAbbrStroke">̄</g> whence the fountaine great</l>
+               <l>of glory doth ariſe,<note n="b" place="margin">
+                     <hi>Io.</hi> 1.16.17</note>
+               </l>
+               <l>
+                  <pb n="69" facs="tcp:4644:47"/>Againe, <hi>If any man will ſerue,</hi>
+               </l>
+               <l>
+                  <hi>then let him follow me:</hi>
+               </l>
+               <l>
+                  <hi>For where I am</hi> (be thou right ſure)</l>
+               <l>
+                  <hi>there ſhall my ſeruant be</hi>
+                  <note n="f" place="margin">
+                     <hi>Io</hi> 12.26</note>
+               </l>
+               <l>And ſtill <hi>If any man loue me</hi>
+               </l>
+               <l>
+                  <hi>him loues my father deare:</hi>
+               </l>
+               <l>
+                  <hi>Whom</hi> I <hi>do loue, to him my ſelfe</hi>
+               </l>
+               <l>
+                  <hi>in glory will appeare.</hi>
+                  <note n="g" place="margin">
+                     <hi>Io.</hi> 14.21</note>
+               </l>
+               <l>O lighten thou my hart and mind<note n="h" place="margin">
+                     <hi>Eſay.</hi> 60.19.</note>
+               </l>
+               <l>that I may nowe be bolde<note n="i" place="margin">
+                     <hi>Ro.</hi> 8.15. <hi>Gal.</hi> 4.5.6</note>
+               </l>
+               <l>(From faith to faith aſcending vp<note n="k" place="margin">
+                     <hi>Eph.</hi> 4.13 15.</note>,</l>
+               <l>thy glory<note n="l" place="margin">
+                     <hi>Io</hi> 17.24.</note> to behold,</l>
+               <l>And ſo in Sion<note n="m" place="margin">
+                     <hi>Pſa.</hi> 132 15.</note> ſee my king,</l>
+               <l>my God my Lord and all<note n="n" place="margin">1 <hi>Co.</hi> 13.12 <hi>Rev.</hi> 22.4. <hi>Eph.</hi> 2.9.</note>,</l>
+               <l>Whom nowe as in a glaſſe I ſee,</l>
+               <l>then face to face I ſhall<note n="o" place="margin">1 <hi>Co.</hi> 13.12. 1 <hi>Io.</hi> 3.2. <hi>Mat.</hi> 5.8. <hi>Pſ.</hi> 84.5.</note>
+               </l>
+               <l>O bleſſed are the pure in heart,</l>
+               <l>Their Soueraigne they ſhall ſee<hi rend="sup">p</hi>
+               </l>
+               <l>And they noſt happie heauenly wights</l>
+               <l>that of his houſhold be<hi rend="sup">q</hi>
+               </l>
+               <l>Wherefore O Lord diſſolue my bo<g ref="char:cmbAbbrStroke">̄</g>ds</l>
+               <l>my giues and fetters ſtrong<note n="r" place="margin">
+                     <hi>Phi.</hi> 1.13.23. <hi>Pſalm.</hi> 101.20.</note>
+               </l>
+               <l>For I haue dwelt within the tents</l>
+               <l>Of Cedar<note n="ſ" place="margin">
+                     <hi>Re.</hi> 21.4. <hi>Eſai,</hi> 25.8 <hi>Reu.</hi> 7, 17.</note> ouerlong</l>
+               <l>And grant, O God, for Chriſt his ſake</l>
+               <l>that once deuoide of ſtrife<note n="s" place="margin">
+                     <hi>Pſ.</hi> 120, 5.6.</note>
+               </l>
+               <l>I may thy holy hill attaine,</l>
+               <l>to dwell in all my life.<note n="t" place="margin">
+                     <hi>Pſalme</hi> 14.1. <hi>Luc.</hi> 1.75. <hi>Pſal.</hi> 27.4. <hi>Reu.</hi> 4.8.7.11.12.19.1.2.6,</note>
+               </l>
+               <l>
+                  <pb n="70" facs="tcp:4644:48"/>VVith Cherubins and Seraphins</l>
+               <l>and holy ſoules of men:</l>
+               <l>To ſing thy praiſe O Lord of hoſtes</l>
+               <l>for euer and euer, Amen.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:4644:48"/>
+            <p>
+               <figure>
+                  <q>NON SOLO PANE VIVET HOMO: <bibl>Luke 4</bibl>
+                  </q>
+                  <q>
+                     <hi>verbum Dei manet in oefernum:</hi>
+                  </q>
+                  <p>I W</p>
+                  <figDesc>printer's device of John Windet</figDesc>
+               </figure>
+            </p>
+            <p>Imprinted at London by Iohn VVindet, dvvelling in Adling ſtreat, at the ſigne of the white Beare. 1585.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
